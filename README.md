@@ -42,5 +42,5 @@ To contribute to the list, please send a PR. If you don't have time to send in a
 ` | [name-of-conf](link) | date | venue | description |`
 
 Please make sure that the conferences are in chronological order.
-a
+
 Contributions are more than welcome, please don't hesistate to contribute!
