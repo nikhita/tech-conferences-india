@@ -20,6 +20,7 @@ If you would like to add to the list, please [contribute](#contribute)!
 | Conference | Date | Venue | Description |
 |--------|--------|------------|------------|
 | [GopherCon India](http://www.gophercon.in/) | 19-20 Feb | Vivanta by Taj, Bengaluru | Go conference in India. Go is an open source project developed by a team at Google and many contributors from the open source community. |
+| [FOSSMeet](http://fossmeet.in/2016/) | 26-28 Feb | NIT Calicut | FOSSMeet is an annual event on Free and Open source software, conducted at National Institute of Technology, Calicut. |
 | [RubyConf India](http://rubyconfindia.org/rci2016/) | 19-20 Mar | Le Meridien, Kochi |  RubyConf India is a global event complementing other RubyConf events across the world. |
 | [IndiaHacks Conference](https://www.hackerearth.com/indiahacks-conference/) | 19 Mar | Vivanta by Taj, Bengaluru | Conducted by HackerEarth,the conference has an extensive lineup of speakers talking on a variety of technical subjects like Machine Learning, Big Data, Artificial Intelligence, Scientific Computing, etc. |
 | [Rootconf](https://rootconf.in/2016/) | 14-15 Apr | MLR Convention Centre, Bengaluru | Rootconf is India’s principal conference where systems and operations engineers share real world knowledge about building resilient and scalable systems. |
