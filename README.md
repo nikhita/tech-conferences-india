@@ -8,6 +8,7 @@ If you would like to add to the list, please [contribute](#contribute)!
 
 | Conference | Date | Venue | Description |
 |--------|--------|------------|------------|
+| [WikiToLearn India Conference 2017](https://india2017.wikitolearn.events) | 18-19 Jan | THE LNMIIT, Jaipur | WikiToLearnConf India is a global event comprising WikiToLearn, Mediawiki and KDE developers from all over India and world. 
 | [50pConf](https://50p.in/2017/) | 24-25 Jan | MLR Convention Centre, Bengaluru | A conference on India's payments ecosystem. |
 | [RubyConf India](http://rubyconfindia.org/) | 27-29 Jan | Le Meridien, Kochi |  RubyConf India is a global event complementing other RubyConf events across the world. |
 | [PyCon Pune](https://pune.pycon.org/) | 16-19 Feb | College of Engineering Pune |  The gathering for the community using and developing the open-source Python programming language. |
