@@ -16,6 +16,7 @@ If you would like to add to the list, please [contribute](#contribute)!
 | [FOSSMeet](http://fossmeet.in/2017/) | 10-12 Mar | NIT Calicut | FOSSMeet is an annual event on Free and Open source software, conducted at National Institute of Technology, Calicut. |
 | [Banglore Container Conference](http://www.containerconf.in/) | 7 Apr | Park Plaza (5 star), ORR, Bangalore | Bangalore Container Conference 2017 (BCC ’17) is the first conference on container technologies in India. The main focus of this conference is “Containers in Production”. |
 | [RootConf](https://rootconf.in/2017/) | 11-12 May | MLR Convention Centre, Bengaluru | Rootconf is India’s principal conference where systems and operations engineers share real world knowledge about building resilient and scalable systems. |
+| [GIDS](http://www.developermarch.com/developersummit/) | 25-28 April | J. N. Tata Auditorium, Bengaluru | With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem.  |
 
 ## 2016
 
