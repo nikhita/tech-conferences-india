@@ -18,6 +18,7 @@ If you would like to add to the list, please [contribute](#contribute)!
 | [GIDS](http://www.developermarch.com/developersummit/) | 25-28 April | J. N. Tata Auditorium, Bengaluru | With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem.  |
 | [RootConf](https://rootconf.in/2017/) | 11-12 May | MLR Convention Centre, Bengaluru | Rootconf is India’s principal conference where systems and operations engineers share real world knowledge about building resilient and scalable systems. |
 | [DevOps Days India](https://devopsdaysindia.org/) | 15-16 Sept | Hotel Vivanta by Taj, MG Road, Bengaluru | DevOpsDays India is a global event complementing other DevOpsDays events across the world. |
+| [Grace Hopper Celebration India (GHCI)](https://ghcindia.anitaborg.org/) | 16-17 Nov |  Bangalore International Exhibition Center (BIEC), Bengaluru | The Grace Hopper Celebration of Women in Computing (India) is India's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM India. |
 
 ## 2016
 
