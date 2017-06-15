@@ -16,6 +16,7 @@ If you would like to be notified of future conferences that would be added to th
 | [PyCon Pune](https://pune.pycon.org/) | 16-19 Feb | College of Engineering Pune |  The gathering for the community using and developing the open-source Python programming language. |
 | [GopherCon India](http://www.gophercon.in/) | 24-25 Feb | Hyatt Regency, Pune | Go conference in India. Go is an open source project developed by a team at Google and many contributors from the open source community. |
 | [FOSSMeet](http://fossmeet.in/2017/) | 10-12 Mar | NIT Calicut | FOSSMeet is an annual event on Free and Open source software, conducted at National Institute of Technology, Calicut. |
+| [LaravelLive India](https://laravellive.in/) | 19 Mar | New Delhi | A PHP Laravel Conference. |
 | [Banglore Container Conference](http://www.containerconf.in/) | 7 Apr | Park Plaza (5 star), ORR, Bangalore | Bangalore Container Conference 2017 (BCC ’17) is the first conference on container technologies in India. The main focus of this conference is “Containers in Production”. |
 | [GIDS](http://www.developermarch.com/developersummit/) | 25-28 April | J. N. Tata Auditorium, Bengaluru | With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem.  |
 | [RootConf](https://rootconf.in/2017/) | 11-12 May | MLR Convention Centre, Bengaluru | Rootconf is India’s principal conference where systems and operations engineers share real world knowledge about building resilient and scalable systems. |
