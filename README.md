@@ -4,6 +4,8 @@
 
 If you would like to add to the list, please [contribute](#contribute)!
 
+If you would like to be notified of future conferences that would be added to the list, you could watch this repo. New additions are made via PRs and have full description of the conference so that you can view it in your email itself. [Example PR](https://github.com/nikhita/tech-conferences-india/pull/6)
+
 ## 2017
 
 | Conference | Date | Venue | Description |
@@ -49,6 +51,6 @@ To contribute to the list, please send a PR. If you don't have time to send in a
 
 ` | [name-of-conf](link) | date | venue | description |`
 
-Please make sure that the conferences are in chronological order.
+Please make sure that the conferences are in chronological order and you follow the Pull Request Template. :smile:
 
 Contributions are more than welcome, please don't hesitate to contribute!
