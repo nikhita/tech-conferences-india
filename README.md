@@ -7,7 +7,7 @@ If you would like to add to the list, please [contribute](#contribute)!
 ## 2017
 
 | Conference | Date | Venue | Description |
-|--------|--------|------------|------------|
+|------------|------|-------|-------------|
 | [WikiToLearn India Conference 2017](https://india2017.wikitolearn.events) | 18-19 Jan | THE LNMIIT, Jaipur | WikiToLearnConf India is a global event comprising WikiToLearn, Mediawiki and KDE developers from all over India and world. |
 | [50pConf](https://50p.in/2017/) | 24-25 Jan | MLR Convention Centre, Bengaluru | A conference on India's payments ecosystem. |
 | [RubyConf India](http://rubyconfindia.org/) | 27-29 Jan | Le Meridien, Kochi |  RubyConf India is a global event complementing other RubyConf events across the world. |
@@ -17,13 +17,14 @@ If you would like to add to the list, please [contribute](#contribute)!
 | [Banglore Container Conference](http://www.containerconf.in/) | 7 Apr | Park Plaza (5 star), ORR, Bangalore | Bangalore Container Conference 2017 (BCC ’17) is the first conference on container technologies in India. The main focus of this conference is “Containers in Production”. |
 | [GIDS](http://www.developermarch.com/developersummit/) | 25-28 April | J. N. Tata Auditorium, Bengaluru | With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem.  |
 | [RootConf](https://rootconf.in/2017/) | 11-12 May | MLR Convention Centre, Bengaluru | Rootconf is India’s principal conference where systems and operations engineers share real world knowledge about building resilient and scalable systems. |
+| [JS Channel](http://2017.jschannel.com/) | 28-29 July | JW Marriott Hotel, Bengaluru | JS Channel is a unique platform to hear best of the bests speakers in JS Community along with learning from expert JS trainers in workshop/live-coding sessions. |
 | [DevOps Days India](https://devopsdaysindia.org/) | 15-16 Sept | Hotel Vivanta by Taj, MG Road, Bengaluru | DevOpsDays India is a global event complementing other DevOpsDays events across the world. |
 | [Grace Hopper Celebration India (GHCI)](https://ghcindia.anitaborg.org/) | 16-17 Nov |  Bangalore International Exhibition Center (BIEC), Bengaluru | The Grace Hopper Celebration of Women in Computing (India) is India's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM India. |
 
 ## 2016
 
 | Conference | Date | Venue | Description |
-|--------|--------|------------|------------|
+|------------|------|-------|-------------|
 | [GopherCon India](http://www.gophercon.in/) | 19-20 Feb | Vivanta by Taj, Bengaluru | Go conference in India. Go is an open source project developed by a team at Google and many contributors from the open source community. |
 | [FOSSMeet](http://fossmeet.in/2016/) | 26-28 Feb | NIT Calicut | FOSSMeet is an annual event on Free and Open source software, conducted at National Institute of Technology, Calicut. |
 | [RubyConf India](http://rubyconfindia.org/rci2016/) | 19-20 Mar | Le Meridien, Kochi |  RubyConf India is a global event complementing other RubyConf events across the world. |
@@ -50,4 +51,4 @@ To contribute to the list, please send a PR. If you don't have time to send in a
 
 Please make sure that the conferences are in chronological order.
 
-Contributions are more than welcome, please don't hesistate to contribute!
+Contributions are more than welcome, please don't hesitate to contribute!
