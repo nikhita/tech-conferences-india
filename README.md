@@ -23,7 +23,7 @@ If you would like to be notified of future conferences that would be added to th
 | [SANOG](http://www.sanog.org/sanog30/) | 10-18 July | Ramada Gurgaon Central, Gurgaon, Haryana, India | The South Asian Network Operator Group. Engineers sharing operational knowledge on running ISPs and modern networks. |
 | [JS Channel](http://2017.jschannel.com/) | 28-29 July | JW Marriott Hotel, Bengaluru | JS Channel is a unique platform to hear best of the bests speakers in JS Community along with learning from expert JS trainers in workshop/live-coding sessions. |
 | [DevOps Days India](https://devopsdaysindia.org/) | 15-16 Sept | Hotel Vivanta by Taj, MG Road, Bengaluru | DevOpsDays India is a global event complementing other DevOpsDays events across the world. |
-| [JSFoo](https://jsfoo.in/2017/) | 15-16 Sep | MLR Convention Centre, Brigade Millenium Complex, Bangalore | JSFoo is India’s premier JavaScript conference, hosted by HasGeek. The broad theme this year is building reliable web apps.  |
+| [JSFoo](https://jsfoo.in/2017/) | 15-16 Sep | MLR Convention Centre, Brigade Millenium Complex, Bengaluru | JSFoo is India’s premier JavaScript conference, hosted by HasGeek. The broad theme this year is building reliable web apps.  |
 | [Grace Hopper Celebration India (GHCI)](https://ghcindia.anitaborg.org/) | 16-17 Nov |  Bangalore International Exhibition Center (BIEC), Bengaluru | The Grace Hopper Celebration of Women in Computing (India) is India's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM India. |
 
 ## 2016
