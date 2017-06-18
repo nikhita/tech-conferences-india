@@ -51,6 +51,7 @@ If you would like to be notified of future conferences that would be added to th
 | [UX India](http://www.2016.ux-india.org/) | 20-22 Oct | Westin, Hyderabad | India’s biggest international conference on user experience design. |
 | [DevOps Days India](http://devopsdaysindia.org/) | 4-5 Nov | The Royal Orchind, Bengaluru | DevOpsDays India is a global event complementing other DevOpsDays events across the world. |
 | [droidconIN](https://droidcon.in/2016/) | 10-11 Nov | MLR Convention Centre, Bengaluru | It is the biggest android conference in the region and is the place to be if you are into android development, design or architecture. |
+| [OpenDayLight India Fourm](http://events.linuxfoundation.org/events/opendaylight-forum-india) | 16-17 Nov | Sheraton Grand Hotel Bangalore, Bengaluru | The networking industry has come to fully emrbace open source SDN as the right path towards achieving innovation and interoperability in today's infrastructures. This will be a two-day event focusing on the fast growing OpenDaylight SDN platform and is a great opportunity for both advanced veterans of the project and those new to OpenDaylight. | 
 | [Grace Hopper Conference India](http://ghcindia.anitaborg.org/) | 7-9 Dec | Vivanta by Taj, Bengaluru | It is India's largest gathering of women technologists produced by the Anita Borg Institute and presented in partnership with ACM India. |
 
 # <a name="contribute"/>Contributing </a>
