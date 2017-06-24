@@ -17,7 +17,7 @@ If you would like to be notified of future conferences that would be added to th
 | [GopherCon India](http://www.gophercon.in/) | 24-25 Feb | Hyatt Regency, Pune | Go conference in India. Go is an open source project developed by a team at Google and many contributors from the open source community. |
 | [Women Who Code Connect- India](https://sites.google.com/view/wwcconnectindia/) | 3 Mar | VMWare, Kalyani Vista, Bengaluru | A part of the Women Technology Conference series by Women Who Code. |
 | [FOSSMeet](http://fossmeet.in/2017/) | 10-12 Mar | NIT Calicut | FOSSMeet is an annual event on Free and Open source software, conducted at National Institute of Technology, Calicut. |
-| [PyDelhi Conf](https://conference.pydelhi.org/) | 18-19 Mar | IIM Lucknow Noida Campus, Delhi | PyDelhi conference is hosted annually by PyDelhi Community with an aim to promote Python programming language. |
+| [PyDelhi Conf](https://conference.pydelhi.org/) | 18-19 Mar | IIM Lucknow Noida Campus, Noida | PyDelhi conference is hosted annually by PyDelhi Community with an aim to promote Python programming language. |
 | [LaravelLive India](https://laravellive.in/) | 19 Mar | New Delhi | A PHP Laravel Conference. |
 | [Banglore Container Conference](http://www.containerconf.in/) | 7 Apr | Park Plaza (5 star), ORR, Bengaluru | Bengaluru Container Conference 2017 (BCC ’17) is the first conference on container technologies in India. The main focus of this conference is “Containers in Production”. |
 | [GIDS](http://www.developermarch.com/developersummit/) | 25-28 April | J. N. Tata Auditorium, Bengaluru | With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem.  |
@@ -48,6 +48,7 @@ If you would like to be notified of future conferences that would be added to th
 |------------|------|-------|-------------|
 | [GopherCon India](http://www.gophercon.in/) | 19-20 Feb | Vivanta by Taj, Bengaluru | Go conference in India. Go is an open source project developed by a team at Google and many contributors from the open source community. |
 | [FOSSMeet](http://fossmeet.in/2016/) | 26-28 Feb | NIT Calicut | FOSSMeet is an annual event on Free and Open source software, conducted at National Institute of Technology, Calicut. |
+| [PyDelhi Conf](https://conference.pydelhi.org/2016/) | 5 Mar | Jawaharlal Nehru University, Delhi | PyDelhi conference is hosted annually by PyDelhi Community with an aim to promote Python programming language. |
 | [RubyConf India](http://rubyconfindia.org/rci2016/) | 19-20 Mar | Le Meridien, Kochi |  RubyConf India is a global event complementing other RubyConf events across the world. |
 | [IndiaHacks Conference](https://www.hackerearth.com/indiahacks-conference/) | 19 Mar | Vivanta by Taj, Bengaluru | Conducted by HackerEarth,the conference has an extensive lineup of speakers talking on a variety of technical subjects like Machine Learning, Big Data, Artificial Intelligence, Scientific Computing, etc. |
 | [Rootconf](https://rootconf.in/2016/) | 14-15 Apr | MLR Convention Centre, Bengaluru | Rootconf is India’s principal conference where systems and operations engineers share real world knowledge about building resilient and scalable systems. |
