@@ -10,7 +10,7 @@ If you would like to be notified of future conferences that would be added to th
 
 | Conference | Date | Venue | Description |
 |------------|------|-------|-------------|
-| [GopherCon India](http://www.gophercon.in/) | 09-10 Mar | Sheraton Grand , sangamvadi, Pune | Go conference in India. Go is an open source project developed by a team at Google and many contributors from the open source community. |
+| [GopherCon India](http://www.gophercon.in/) | 09-10 Mar | Sheraton Grand, Sangamvadi, Pune | Go conference in India. Go is an open source project developed by a team at Google and many contributors from the open source community. |
 
 ## 2017
 
