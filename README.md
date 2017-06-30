@@ -6,6 +6,12 @@ To add a conference to the list, please [contribute](#contribute)!
 
 If you would like to be notified of future conferences that would be added to the list, you could watch this repo. New additions are made via PRs and have full description of the conference so that you can view it directly in your email. ([Example PR](https://github.com/nikhita/tech-conferences-india/pull/6))
 
+## 2018
+
+| Conference | Date | Venue | Description |
+|------------|------|-------|-------------|
+| [GopherCon India](http://www.gophercon.in/) | 09-10 Mar | Sheraton Grand, Sangamvadi, Pune | Go conference in India. Go is an open source project developed by a team at Google and many contributors from the open source community. |
+
 ## 2017
 
 | Conference | Date | Venue | Description |
