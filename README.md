@@ -49,7 +49,8 @@ If you would like to be notified of future conferences that would be added to th
 ## 2016
 
 | Conference | Date | Venue | Description |
-|------------|------|-------|-------------|
+|------------|------|-------|-------------|Sauron, Gandalf and Isildur conference halls, Directiplex, Andheri (E), Mumbai|
+| [Mini-DebConf]](http://in2015.mini.debconf.org/)|30-31 January|A mini-DebConf is an awesome opportunity for any user who wants to experience the magic of Free and Open Source Software (FOSS). Here you can meet the veterans in FOSS development, develop professional connections which will help you in future, chat with contributors who can guide you, advance the cause of Debian and most importantly, grasp the essence of FOSS development.|
 | [GopherCon India](http://www.gophercon.in/) | 19-20 Feb | Vivanta by Taj, Bengaluru | Go conference in India. Go is an open source project developed by a team at Google and many contributors from the open source community. |
 | [FOSSMeet](http://fossmeet.in/2016/) | 26-28 Feb | NIT Calicut | FOSSMeet is an annual event on Free and Open source software, conducted at National Institute of Technology, Calicut. |
 | [PyDelhi Conf](https://conference.pydelhi.org/2016/) | 5 Mar | Jawaharlal Nehru University, Delhi | PyDelhi conference is hosted annually by PyDelhi Community with an aim to promote Python programming language. |
