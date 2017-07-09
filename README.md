@@ -6,6 +6,12 @@ To add a conference to the list, please [contribute](#contribute)!
 
 If you would like to be notified of future conferences that would be added to the list, you could watch this repo. New additions are made via PRs and have full description of the conference so that you can view it directly in your email. ([Example PR](https://github.com/nikhita/tech-conferences-india/pull/6))
 
+## 2018
+
+| Conference | Date | Venue | Description |
+|------------|------|-------|-------------|
+| [GopherCon India](http://www.gophercon.in/) | 09-10 Mar | Sheraton Grand, Sangamvadi, Pune | Go conference in India. Go is an open source project developed by a team at Google and many contributors from the open source community. |
+
 ## 2017
 
 | Conference | Date | Venue | Description |
@@ -39,11 +45,12 @@ If you would like to be notified of future conferences that would be added to th
 | [CloudSec](https://www.cloudsec.com/in/) | 13 Sept | JW Marriott, Mumbai | It is a conference about IT Security Technologies, Policies and Compliance. |
 | [ReactFoo 2017](https://hasgeek.com/) | 14 Sept | Bengaluru | ReactFoo is a single-day React conference by HasGeek. | 
 | [DevOps Days India](https://devopsdaysindia.org/) | 15-16 Sept | Hotel Vivanta by Taj, MG Road, Bengaluru | DevOpsDays India is a global event complementing other DevOpsDays events across the world. |
-| [JSFoo](https://jsfoo.in/2017/) | 15-16 Sept | MLR Convention Centre, Brigade Millenium Complex, Bengaluru | JSFoo is India’s premier JavaScript conference, hosted by HasGeek. The broad theme this year is building reliable web apps.  |
+| [JSFoo](https://jsfoo.in/2017/) | 15-16 Sept | MLR Convention Centre, Bengaluru | JSFoo is India’s premier JavaScript conference, hosted by HasGeek. The broad theme this year is building reliable web apps.  |
 | [DevOps Summit](http://www.unicomlearning.com/2017/DevOps_Summit_Pune/) | 16 Sept | Pune | The conference brings together leading practitioner-organisations who have achieved Continuous Delivery and organisational transformation. |
 | [PyCon India](https://in.pycon.org/2017/) | 2-5 Nov | Jawahar Lal Nehru University, New Delhi | The premier conference in India on using and developing the Python programming language is conducted annually by the Python developer community. It attracts the best Python programmers from across the country and abroad. |
 | [DataHack Summit](https://www.analyticsvidhya.com/datahacksummit/) | 9-11 Nov | Bengaluru | DataHack Summit is an initiative by Analytics Vidhya to bring together the finest data scientists from across the country & globe. | 
 | [Grace Hopper Celebration India (GHCI)](https://ghcindia.anitaborg.org/) | 16-17 Nov |  Bengaluru International Exhibition Center (BIEC), Bengaluru | The Grace Hopper Celebration of Women in Computing (India) is India's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM India. |
+| [try! swift](https://www.tryswift.co/events/2017/bangalore/) | 16-17 Nov | MLR Convention Centre, Bengaluru | try! Swift India is an amazing chance for developers in the Asian Pacific region to learn the latest world trends in iOS, tvOS, and watchOS development using the industry's best standards. |
 | [World Cloud Summit](http://worldcloudsummit.com/) | 23-24 Nov | Jaipur | World Cloud Summit is one of the largest gatherings of cloud services and internet infrastructure industries. |
 
 ## 2016
