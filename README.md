@@ -11,7 +11,7 @@ If you would like to be notified of future conferences that would be added to th
 | Conference | Date | Venue | Description |
 |------------|------|-------|-------------|
 | [GopherCon India](http://www.gophercon.in/) | 09-10 Mar | Sheraton Grand, Sangamvadi, Pune | Go conference in India. Go is an open source project developed by a team at Google and many contributors from the open source community. |
-| [Hosting and Domain Conference India](http://www.hdcon.org/) | 3 Feb | Hyderabad | Hosting and Domain Conference is the World's Top initiative to discuss on latest happenings in the field of web technologies. Its an 1 day event. Over 2000 Delegates along with 30 Speakers participate in this conference.Hosting, Domain, Blogging and Web technologies are major discussions.  |
+| [Hosting and Domain Conference India](http://www.hdcon.org/) | 3 Feb | Hyderabad | Hosting and Domain Conference is the World's Top initiative to discuss on latest happenings in the field of web technologies. Hosting, Domain, Blogging and Web technologies are major discussions. |
 
 ## 2017
 
