@@ -53,6 +53,7 @@ If you would like to be notified of future conferences that would be added to th
 | [DataHack Summit](https://www.analyticsvidhya.com/datahacksummit/) | 9-11 Nov | Bengaluru | DataHack Summit is an initiative by Analytics Vidhya to bring together the finest data scientists from across the country & globe. | 
 | [Grace Hopper Celebration India (GHCI)](https://ghcindia.anitaborg.org/) | 16-17 Nov |  Bengaluru International Exhibition Center (BIEC), Bengaluru | The Grace Hopper Celebration of Women in Computing (India) is India's largest gathering of women technologists. |
 | [try! swift](https://www.tryswift.co/events/2017/bangalore/) | 16-17 Nov | MLR Convention Centre, Bengaluru | try! Swift India is an amazing chance for developers in the Asian Pacific region to learn the latest world trends in iOS, tvOS, and watchOS development using the industry's best standards. |
+| [Functional Conf](https://functionalconf.com/) | 16-19 Nov | Bengaluru | Asia's Premier Functional Programming Conference, designed to bring the growing community of functional programmers together under one roof. |
 | [XP Conference India 2017](http://xpconference.in/2017XpConf/) | 17-18 Nov | Bengaluru | The 3rd International XP Conference on Agile Engineering practices for software product development, hosted by Volunteers and the community at large. |
 | [World Cloud Summit](http://worldcloudsummit.com/) | 23-24 Nov | Jaipur | World Cloud Summit is one of the largest gatherings of cloud services and internet infrastructure industries. |
 
