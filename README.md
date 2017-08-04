@@ -11,6 +11,7 @@ If you would like to be notified of future conferences that would be added to th
 | Conference | Date | Venue | Description |
 |------------|------|-------|-------------|
 | [Hosting and Domain Conference India](http://www.hdcon.org/) | 3 Feb | Hyderabad | Hosting and Domain Conference is the World's Top initiative to discuss on latest happenings in the field of web technologies. Hosting, Domain, Blogging and Web technologies are major discussions. |
+| [PyCon Pune](https://pune.pycon.org/2018/) | 08-11 Feb | Pune | PyCon Pune is a conference which includes first two days conference(08 - 09) and then two days dev spirint (10 - 11) to contribute to upstream projects. |
 | [GopherCon India](http://www.gophercon.in/) | 09-10 Mar | Sheraton Grand, Sangamvadi, Pune | Go conference in India. Go is an open source project developed by a team at Google and many contributors from the open source community. |
 | [Great Indian Developer Summit](http://www.developermarch.com/developersummit/index.html) | 24-27 Apr | Bengaluru | 	With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem.
 
@@ -50,6 +51,7 @@ If you would like to be notified of future conferences that would be added to th
 | [JSFoo](https://jsfoo.in/2017/) | 15-16 Sept | MLR Convention Centre, Bengaluru | JSFoo is India’s premier JavaScript conference, hosted by HasGeek. The broad theme this year is building reliable web apps.  |
 | [DevOps Summit](http://www.unicomlearning.com/2017/DevOps_Summit_Pune/) | 16 Sept | Pune | The conference brings together leading practitioner-organisations who have achieved Continuous Delivery and organisational transformation. |
 | [CYPHER 2017](http://www.analyticsindiasummit.com/about/) | 21-23 Sept | Hotel Park Plaza, Bengaluru | A platform to network and learn from the leading thought leaders, companies and startups in Analytics, Data Science and Artificial Intelligence discipline. | 
+| [PyConf Hyderabad](http://pyconf.hydpy.org/) | 07-08 Oct | IIIT Hyderabad, Hyderabad | First Python Conference in Hyderabad for the development of Python programming language. |
 | [Open Source India 2017](http://opensourceindia.in/osidays/) | 13-14 Oct | Bengaluru, NIMHANS Convention Center | Open Source India brings the open source community to one floor, to explore what’s new and exciting in open source languages, tools, and techniques. |
 | [PyCon India](https://in.pycon.org/2017/) | 2-5 Nov | Jawahar Lal Nehru University, New Delhi | The premier conference in India on using and developing the Python programming language. |
 | [DataHack Summit](https://www.analyticsvidhya.com/datahacksummit/) | 9-11 Nov | Bengaluru | DataHack Summit is an initiative by Analytics Vidhya to bring together the finest data scientists from across the country & globe. | 
