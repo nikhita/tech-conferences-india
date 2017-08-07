@@ -52,6 +52,7 @@ If you would like to be notified of future conferences that would be added to th
 | [JSFoo](https://jsfoo.in/2017/) | 15-16 Sept | MLR Convention Centre, Bengaluru | JSFoo is India’s premier JavaScript conference, hosted by HasGeek. The broad theme this year is building reliable web apps.  |
 | [DevOps Summit](http://www.unicomlearning.com/2017/DevOps_Summit_Pune/) | 16 Sept | Pune | The conference brings together leading practitioner-organisations who have achieved Continuous Delivery and organisational transformation. |
 | [CYPHER 2017](http://www.analyticsindiasummit.com/about/) | 21-23 Sept | Hotel Park Plaza, Bengaluru | A platform to network and learn from the leading thought leaders, companies and startups in Analytics, Data Science and Artificial Intelligence discipline. |
+| [ICCE 2017](http://www.icce-asia2017.org/) | 05-07 Oct | Bengaluru | 2nd International Conference on Consumer Electronics Asia |
 | [PyConf Hyderabad](http://pyconf.hydpy.org/) | 07-08 Oct | IIIT Hyderabad, Hyderabad | First Python Conference in Hyderabad for the development of Python programming language. |
 | [Open Source India 2017](http://opensourceindia.in/osidays/) | 13-14 Oct | Bengaluru, NIMHANS Convention Center | Open Source India brings the open source community to one floor, to explore what’s new and exciting in open source languages, tools, and techniques. |
 | [PyCon India](https://in.pycon.org/2017/) | 2-5 Nov | Jawahar Lal Nehru University, New Delhi | The premier conference in India on using and developing the Python programming language. |
