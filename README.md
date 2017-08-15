@@ -26,22 +26,22 @@ If you would like to be notified of future conferences that would be added to th
 | [Grace Hopper Celebration India (GHCI)](https://ghcindia.anitaborg.org/) | 16-17 Nov |  Bengaluru International Exhibition Center (BIEC), Bengaluru | The Grace Hopper Celebration of Women in Computing (India) is India's largest gathering of women technologists. |
 | [DataHack Summit](https://www.analyticsvidhya.com/datahacksummit/) | 9-11 Nov | Bengaluru | DataHack Summit is an initiative by Analytics Vidhya to bring together the finest data scientists from across the country & globe. |
 | [PyCon India](https://in.pycon.org/2017/) | 2-5 Nov | Jawahar Lal Nehru University, New Delhi | The premier conference in India on using and developing the Python programming language. |
-| [Serverless Summit](http://inserverless.com/) | 27 October | Bangalore | India’s first confluence on serverless technologies. |
+| [Serverless Summit](http://inserverless.com/) | 27 Oct | Bangalore | India’s first confluence on serverless technologies. |
 | [Open Source India 2017](http://opensourceindia.in/osidays/) | 13-14 Oct | Bengaluru, NIMHANS Convention Center | Open Source India brings the open source community to one floor, to explore what’s new and exciting in open source languages, tools, and techniques. |
 | [PyConf Hyderabad](http://pyconf.hydpy.org/) | 07-08 Oct | IIIT Hyderabad, Hyderabad | First Python Conference in Hyderabad for the development of Python programming language. |
 | [ICCE 2017](http://www.icce-asia2017.org/) | 05-07 Oct | Bengaluru | 2nd International Conference on Consumer Electronics Asia |
-| [India Blockchain Week](https://www.indiablockchainweek.com/)| 22-26 September | Leela Hotel, Mumbai| Blockchain technology has created waves around the World, bringing transparency and massively reducing costs. |
+| [India Blockchain Week](https://www.indiablockchainweek.com/)| 22-26 Sept | Leela Hotel, Mumbai| Blockchain technology has created waves around the World, bringing transparency and massively reducing costs. |
 | [CYPHER 2017](http://www.analyticsindiasummit.com/about/) | 21-23 Sept | Hotel Park Plaza, Bengaluru | A platform to network and learn from the leading thought leaders, companies and startups in Analytics, Data Science and Artificial Intelligence discipline. |
 | [DevOps Summit](http://www.unicomlearning.com/2017/DevOps_Summit_Pune/) | 16 Sept | Pune | The conference brings together leading practitioner-organisations who have achieved Continuous Delivery and organisational transformation. |
 | [JSFoo](https://jsfoo.in/2017/) | 15-16 Sept | MLR Convention Centre, Bengaluru | JSFoo is India’s premier JavaScript conference, hosted by HasGeek. The broad theme this year is building reliable web apps.  |
 | [DevOps Days India](https://devopsdaysindia.org/) | 15-16 Sept | Hotel Vivanta by Taj, MG Road, Bengaluru | DevOpsDays India is a global event complementing other DevOpsDays events across the world. |
-| [Iot Summit](http://www.unicomlearning.com/2017/IoT_Summit_Pune/)| 15 September | Pune | The conference explores how the Internet of Things will re-shape our interactions with the real and virtual worlds in the coming year.|
+| [Iot Summit](http://www.unicomlearning.com/2017/IoT_Summit_Pune/)| 15 Sept | Pune | The conference explores how the Internet of Things will re-shape our interactions with the real and virtual worlds in the coming year.|
 | [ReactFoo 2017](https://hasgeek.com/) | 14 Sept | Bengaluru | ReactFoo is a single-day React conference by HasGeek. |
 | [CloudSec](https://www.cloudsec.com/in/) | 13 Sept | JW Marriott, Mumbai | It is a conference about IT Security Technologies, Policies and Compliance. |
 | [Fragments 2017](https://hasgeek.com/) | 12-13 Sept | Bengaluru | Fragments is a two-day conference on the mobile ecosystem in India. |
 | [DevOps++ Global Summit](https://www.townscript.com/e/devopsglobalsummitdoppa2017) | 9 Sept | Pune | It is a way to get the community together and experience the latest in DevOps and beyond. The ++ in DevOps++ is all about going beyond DevOps. |
-|[Data Visualization Summit](http://www.unicomlearning.com/2017/Data_Visualization_Summit_Mumbai/)| 1 September| Mumbai | A primary goal of data visualization is to communicate information clearly and efficiently via statistical graphics. |
-| [Oracle Code Bengaluru ](https://developer.oracle.com/code/bangalore) | 10 August | Bengaluru, Karnataka | Oracle Code is a free event for developers to learn about the latest developer technologies, practices, and trends.|
+|[Data Visualization Summit](http://www.unicomlearning.com/2017/Data_Visualization_Summit_Mumbai/)| 1 Sept| Mumbai | A primary goal of data visualization is to communicate information clearly and efficiently via statistical graphics. |
+| [Oracle Code Bengaluru ](https://developer.oracle.com/code/bangalore) | 10 Aug | Bengaluru, Karnataka | Oracle Code is a free event for developers to learn about the latest developer technologies, practices, and trends.|
 | [JS Channel](http://2017.jschannel.com/) | 28-29 July | JW Marriott Hotel, Bengaluru | JS Channel is a unique platform to hear best of the bests speakers in JS Community along with learning from expert JS trainers in workshop/live-coding sessions. |
 | [Eclipse Summit India](https://eclipsesummit.in/) | 29 July | Infosys Campus, Electronic City, Bengaluru | This is a great opportunity for the Eclipse fraternity in India to learn, explore, share, and collaborate on the latest ideas and information about Eclipse ecosystem and its community of projects with the core contributors, adopters, extenders, service providers, consumers and business and research organizations. |
 | [Anthill Inside](https://anthillinside.in/2017/) | 29 July | MLR Convention Centre, Whitefield, Bengaluru | Anthill Inside is the new avataar of the Deep Learning conference.|
@@ -78,7 +78,7 @@ If you would like to be notified of future conferences that would be added to th
 | [PyCon India](https://in.pycon.org/2016/) | 24-25 Sept | Jawahar Lal Nehru University, New Delhi | The premier conference in India on using and developing the Python programming language. |
 | [Meta Refresh](https://metarefresh.in/2016/) | 17 Sept | MLR Convention Centre, Bengaluru | Meta Refresh is an event on front-end engineering and design. |
 | [JSFoo](https://jsfoo.in/2016/) | 15-16 Sept | MLR Convention Centre, Bengaluru | JSFoo is India’s premier JavaScript conference. |
-| [SANOG](http://www.sanog.org/sanog28/) | 1-9 August | Trident, BKC, Mumbai | The South Asian Network Operator Group. Engineers sharing operational knowledge on running ISPs and modern networks. |
+| [SANOG](http://www.sanog.org/sanog28/) | 1-9 Aug | Trident, BKC, Mumbai | The South Asian Network Operator Group. Engineers sharing operational knowledge on running ISPs and modern networks. |
 | [The Fifth Elephant](https://fifthelephant.in/2016/) | 28-29 July | NIMHANS Convention Centre, Bengaluru | The Fifth Elephant is India’s most renowned conference on data, a space for discussing the most relevant tools, techniques and frameworks with expert practitioners in the field. |
 | [Rootconf](https://rootconf.in/2016/) | 14-15 Apr | MLR Convention Centre, Bengaluru | Rootconf is India’s principal conference where systems and operations engineers share real world knowledge about building resilient and scalable systems. |
 | [IndiaHacks Conference](https://www.hackerearth.com/indiahacks-conference/) | 19 Mar | Vivanta by Taj, Bengaluru | Conducted by HackerEarth,the conference has an extensive lineup of speakers talking on a variety of technical subjects like Machine Learning, Big Data, Artificial Intelligence, Scientific Computing, etc. |
@@ -86,7 +86,7 @@ If you would like to be notified of future conferences that would be added to th
 | [PyDelhi Conf](https://conference.pydelhi.org/2016/) | 5 Mar | Jawaharlal Nehru University, Delhi | PyDelhi conference is hosted annually by PyDelhi Community with an aim to promote Python programming language. |
 | [FOSSMeet](http://fossmeet.in/2016/) | 26-28 Feb | NIT Calicut | FOSSMeet is an annual event on Free and Open source software, conducted at National Institute of Technology, Calicut. |
 | [GopherCon India](http://www.gophercon.in/) | 19-20 Feb | Vivanta by Taj, Bengaluru | Go conference in India. Go is an open source project developed by a team at Google and many contributors from the open source community. |
-|[Mini Deb-Con](http://in2015.mini.debconf.org/)|30 - 31 January| Andheri (E), Mumbai | It is an awesome opportunity for any user who wants to experience the magic of FOSS |
+|[Mini Deb-Con](http://in2015.mini.debconf.org/)|30 - 31 Jan| Andheri (E), Mumbai | It is an awesome opportunity for any user who wants to experience the magic of FOSS |
 
 # <a name="contribute"/>Contributing </a>
 
