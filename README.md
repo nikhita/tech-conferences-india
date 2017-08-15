@@ -26,6 +26,7 @@ If you would like to be notified of future conferences that would be added to th
 | [Grace Hopper Celebration India (GHCI)](https://ghcindia.anitaborg.org/) | 16-17 Nov |  Bengaluru International Exhibition Center (BIEC), Bengaluru | The Grace Hopper Celebration of Women in Computing (India) is India's largest gathering of women technologists. |
 | [DataHack Summit](https://www.analyticsvidhya.com/datahacksummit/) | 9-11 Nov | Bengaluru | DataHack Summit is an initiative by Analytics Vidhya to bring together the finest data scientists from across the country & globe. |
 | [PyCon India](https://in.pycon.org/2017/) | 2-5 Nov | Jawahar Lal Nehru University, New Delhi | The premier conference in India on using and developing the Python programming language. |
+| [Serverless Summit](http://inserverless.com/) | 27 October | Bangalore | India’s first confluence on serverless technologies. |
 | [Open Source India 2017](http://opensourceindia.in/osidays/) | 13-14 Oct | Bengaluru, NIMHANS Convention Center | Open Source India brings the open source community to one floor, to explore what’s new and exciting in open source languages, tools, and techniques. |
 | [PyConf Hyderabad](http://pyconf.hydpy.org/) | 07-08 Oct | IIIT Hyderabad, Hyderabad | First Python Conference in Hyderabad for the development of Python programming language. |
 | [ICCE 2017](http://www.icce-asia2017.org/) | 05-07 Oct | Bengaluru | 2nd International Conference on Consumer Electronics Asia |
@@ -34,6 +35,7 @@ If you would like to be notified of future conferences that would be added to th
 | [DevOps Summit](http://www.unicomlearning.com/2017/DevOps_Summit_Pune/) | 16 Sept | Pune | The conference brings together leading practitioner-organisations who have achieved Continuous Delivery and organisational transformation. |
 | [JSFoo](https://jsfoo.in/2017/) | 15-16 Sept | MLR Convention Centre, Bengaluru | JSFoo is India’s premier JavaScript conference, hosted by HasGeek. The broad theme this year is building reliable web apps.  |
 | [DevOps Days India](https://devopsdaysindia.org/) | 15-16 Sept | Hotel Vivanta by Taj, MG Road, Bengaluru | DevOpsDays India is a global event complementing other DevOpsDays events across the world. |
+| [Iot Summit](http://www.unicomlearning.com/2017/IoT_Summit_Pune/)| 15 September | Pune | The conference explores how the Internet of Things will re-shape our interactions with the real and virtual worlds in the coming year.|
 | [ReactFoo 2017](https://hasgeek.com/) | 14 Sept | Bengaluru | ReactFoo is a single-day React conference by HasGeek. |
 | [CloudSec](https://www.cloudsec.com/in/) | 13 Sept | JW Marriott, Mumbai | It is a conference about IT Security Technologies, Policies and Compliance. |
 | [Fragments 2017](https://hasgeek.com/) | 12-13 Sept | Bengaluru | Fragments is a two-day conference on the mobile ecosystem in India. |
