@@ -13,7 +13,7 @@ If you would like to be notified of future conferences that would be added to th
 | [Great Indian Developer Summit](http://www.developermarch.com/developersummit/index.html) | 24-27 Apr | Bengaluru | 	With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem.
 | [GopherCon India](http://www.gophercon.in/) | 09-10 Mar | Sheraton Grand, Sangamvadi, Pune | Go conference in India. Go is an open source project developed by a team at Google. |
 | [PyCon Pune](https://pune.pycon.org/2018/) | 08-11 Feb | Pune | The community will meet for two days of talks and work on upstream projects in two days of dev sprint. |
-| [Hosting and Domain Conference India](http://www.hdcon.org/) | 3 Feb | Hyderabad | Hosting and Domain Conference is the World's Top initiative to discuss on latest happenings in the field of web technologies. |
+| [Hosting and Domain Conference India](http://www.hdcon.org/) | 3 Feb | Hyderabad | Hosting and Domain Conference is the World's Top initiative to discuss on hosting, domain, blogging and web technologies. |
 
 ## 2017
 
@@ -22,7 +22,7 @@ If you would like to be notified of future conferences that would be added to th
 | [World Cloud Summit](http://worldcloudsummit.com/) | 23-24 Nov | Jaipur | World Cloud Summit is one of the largest gatherings of cloud services and internet infrastructure industries. |
 | [XP Conference India 2017](http://xpconference.in/2017XpConf/) | 17-18 Nov | Bengaluru | The 3rd International XP Conference on Agile Engineering practices for software product development. |
 | [Functional Conf](https://functionalconf.com/) | 16-19 Nov | Bengaluru | Asia's Premier Functional Programming Conference, designed to bring the growing community of functional programmers together under one roof. |
-| [try! swift](https://www.tryswift.co/events/2017/bangalore/) | 16-17 Nov | MLR Convention Centre, Bengaluru | try! Swift India is an amazing chance for developers in the Asian Pacific regions. |
+| [try! swift](https://www.tryswift.co/events/2017/bangalore/) | 16-17 Nov | MLR Convention Centre, Bengaluru | try! Swift India is an amazing chance for developers in the Asian Pacific region to learn the latest world trends in iOS, tvOS, and watchOS development using the industry's best standards. |
 | [Grace Hopper Celebration India (GHCI)](https://ghcindia.anitaborg.org/) | 16-17 Nov |  Bengaluru International Exhibition Center (BIEC), Bengaluru | The Grace Hopper Celebration of Women in Computing (India) is India's largest gathering of women technologists. |
 | [DataHack Summit](https://www.analyticsvidhya.com/datahacksummit/) | 9-11 Nov | Bengaluru | DataHack Summit is an initiative by Analytics Vidhya to bring together the finest data scientists from across the country & globe. |
 | [PyCon India](https://in.pycon.org/2017/) | 2-5 Nov | Jawahar Lal Nehru University, New Delhi | The premier conference in India on using and developing the Python programming language. |
@@ -35,7 +35,7 @@ If you would like to be notified of future conferences that would be added to th
 | [DevOps Summit](http://www.unicomlearning.com/2017/DevOps_Summit_Pune/) | 16 Sept | Pune | The conference brings together leading practitioner-organisations who have achieved Continuous Delivery and organisational transformation. |
 | [JSFoo](https://jsfoo.in/2017/) | 15-16 Sept | MLR Convention Centre, Bengaluru | JSFoo is India’s premier JavaScript conference, hosted by HasGeek. The broad theme this year is building reliable web apps.  |
 | [DevOps Days India](https://devopsdaysindia.org/) | 15-16 Sept | Hotel Vivanta by Taj, MG Road, Bengaluru | DevOpsDays India is a global event complementing other DevOpsDays events across the world. |
-| [Iot Summit](http://www.unicomlearning.com/2017/IoT_Summit_Pune/)| 15 Sept | Pune | The conference explores how the Internet of Things will re-shape our interactions with the real and virtual worlds in the coming year.|
+| [IOT Summit](http://www.unicomlearning.com/2017/IoT_Summit_Pune/)| 15 Sept | Pune | The conference explores how the Internet of Things will re-shape our interactions with the real and virtual worlds in the coming year.|
 | [ReactFoo 2017](https://hasgeek.com/) | 14 Sept | Bengaluru | ReactFoo is a single-day React conference by HasGeek. |
 | [CloudSec](https://www.cloudsec.com/in/) | 13 Sept | JW Marriott, Mumbai | It is a conference about IT Security Technologies, Policies and Compliance. |
 | [Fragments 2017](https://hasgeek.com/) | 12-13 Sept | Bengaluru | Fragments is a two-day conference on the mobile ecosystem in India. |
@@ -47,7 +47,7 @@ If you would like to be notified of future conferences that would be added to th
 | [Anthill Inside](https://anthillinside.in/2017/) | 29 July | MLR Convention Centre, Whitefield, Bengaluru | Anthill Inside is the new avataar of the Deep Learning conference.|
 | [The Fifth Elephant](https://fifthelephant.in/2017/) | 27-28 July | MLR Convention Centre, Bengaluru | The Fifth Elephant is India’s most renowned conference on data. |
 | [SANOG](http://www.sanog.org/sanog30/) | 10-18 July | Ramada Gurgaon Central, Gurgaon, Haryana, India | The South Asian Network Operator Group. Engineers sharing operational knowledge on running ISPs and modern networks. |
-| [AlterConf](https://alterconf.com/conferences/bangalore-india) (postponed to 2018) | 8 July | Microsoft Signature Building, Bengaluru | AlterConf is a traveling conference series that provides safe opportunities for marginalized people. |
+| [AlterConf](https://alterconf.com/conferences/bangalore-india) (postponed to 2018) | 8 July | Microsoft Signature Building, Bengaluru | AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.  |
 | [India Cloud Summit](http://www.cloudsummit.org/) | 5 July | Bengaluru | It is an event covering topics, like architecture, performance, operations and more. |
 | [HillHacks](https://hillhacks.in/) | 15-31 May | Bir, Himachal Pradesh | People from different places, walks of life and lines of thought come together to share, collaborate and learn.|
 | [Ethereum India Summit](https://in.explara.com/e/blockchainstormethereumindia2017) | 18 May | Hotel Taj Mahal Palace, Mumbai | India’s first ever Ethereum Summit with Ethereum CoFounder Vitalik Buterin. |
@@ -81,7 +81,7 @@ If you would like to be notified of future conferences that would be added to th
 | [SANOG](http://www.sanog.org/sanog28/) | 1-9 Aug | Trident, BKC, Mumbai | The South Asian Network Operator Group. Engineers sharing operational knowledge on running ISPs and modern networks. |
 | [The Fifth Elephant](https://fifthelephant.in/2016/) | 28-29 July | NIMHANS Convention Centre, Bengaluru | The Fifth Elephant is India’s most renowned conference on data. |
 | [Rootconf](https://rootconf.in/2016/) | 14-15 Apr | MLR Convention Centre, Bengaluru | Rootconf is India’s principal conference where systems and operations engineers share real world knowledge. |
-| [IndiaHacks Conference](https://www.hackerearth.com/indiahacks-conference/) | 19 Mar | Vivanta by Taj, Bengaluru | Conference has an extensive lineup of speakers talking on a variety of technical subjects like ML, Big Data, AI etc. |
+| [IndiaHacks Conference](https://www.hackerearth.com/indiahacks-conference/) | 19 Mar | Vivanta by Taj, Bengaluru | IndiaHacks has an extensive lineup of speakers talking on a variety of technical subjects like ML, Big Data, AI etc. |
 | [RubyConf India](http://rubyconfindia.org/rci2016/) | 19-20 Mar | Le Meridien, Kochi |  RubyConf India is a global event complementing other RubyConf events across the world. |
 | [PyDelhi Conf](https://conference.pydelhi.org/2016/) | 5 Mar | Jawaharlal Nehru University, Delhi | PyDelhi conference is hosted annually by PyDelhi Community with an aim to promote Python programming language. |
 | [FOSSMeet](http://fossmeet.in/2016/) | 26-28 Feb | NIT Calicut | FOSSMeet is an annual event on Free and Open source software, conducted at National Institute of Technology, Calicut. |
