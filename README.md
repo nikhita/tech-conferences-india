@@ -59,6 +59,7 @@ If you would like to be notified of future conferences that would be added to th
 | [LaravelLive India](https://laravellive.in/) | 19 Mar | New Delhi | A PHP Laravel Conference. |
 | [PyDelhi Conf](https://conference.pydelhi.org/) | 18-19 Mar | IIM Lucknow Noida Campus, Noida | PyDelhi conference is hosted annually by PyDelhi Community with an aim to promote Python programming language. |
 | [FOSSMeet](http://fossmeet.in/2017/) | 10-12 Mar | NIT Calicut | FOSSMeet is an annual event on Free and Open source software, conducted at National Institute of Technology, Calicut. |
+|[KDE Conference](https://conf.kde.in/)| 10-12 Mar | IIT Guwahati | It is a platform for Qt/KDE contributors, developers and enthusiasts to come together, share their knowledge. | 
 | [Women Who Code Connect- India](https://sites.google.com/view/wwcconnectindia/) | 3 Mar | VMWare, Kalyani Vista, Bengaluru | A part of the Women Technology Conference series by Women Who Code. |
 | [GopherCon India](http://www.gophercon.in/) | 24-25 Feb | Hyatt Regency, Pune | Go conference in India. Go is an open source project developed by a team at Google. |
 | [PyCon Pune](https://pune.pycon.org/) | 16-19 Feb | College of Engineering Pune |  The gathering for the community using and developing the open-source Python programming language. |
