@@ -8,19 +8,19 @@ If you would like to be notified of future conferences that would be added to th
 
 ## 2017
 
-[List of Conferences](year-pages/2017-conferences-list)
+[List of Conferences](year-pages/2017-conferences-list.md)
 
 ## Future Years
 
 ### 2018
 
-[List of Conferences](year-pages/2018-conferences-list)
+[List of Conferences](year-pages/2018-conferences-list.md)
 
 ## Past Years
 
 ### 2016
 
-[List of Conferences](year-pages/2016-conferences-list)
+[List of Conferences](year-pages/2016-conferences-list.md)
 
 # <a name="contribute"/>Contributing </a>
 
