@@ -6,7 +6,7 @@ To add a conference to the list, please [contribute](#contribute)!
 
 If you would like to be notified of future conferences that would be added to the list, you could watch this repo. New additions are made via PRs and have full description of the conference so that you can view it directly in your email. ([Example PR](https://github.com/nikhita/tech-conferences-india/pull/25))
 
-## 2017 (Current Year)
+## 2017 
 
 ## List of Tech Conferences in 2017 in India
 
@@ -62,15 +62,11 @@ If you would like to be notified of future conferences that would be added to th
 
 ## Future Years
 
-### 2018
-
-[List of Conferences](year-pages/2018-conferences-list.md)
+### 2018 [List of Conferences](year-pages/2018-conferences-list.md)
 
 ## Past Years
 
-### 2016
-
-[List of Conferences](year-pages/2016-conferences-list.md)
+### 2016 [List of Conferences](year-pages/2016-conferences-list.md)
 
 # <a name="contribute"/>Contributing </a>
 
