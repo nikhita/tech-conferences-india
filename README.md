@@ -12,6 +12,7 @@ If you would like to be notified of future conferences that would be added to th
 
 | Conference | Date | Venue | Description |
 |------------|------|-------|-------------|
+|[Google Developer Days](https://developers.google.com/events/gdd-india/) | 1-2 Dec | Bengaluru | Google Developer Days (GDD) are global events showcasing the latest developer products and platforms from Google to help you quickly develop high quality apps, grow & retain an active user base, and tap into tools to earn more. |
 | [World Cloud Summit](http://worldcloudsummit.com/) | 23-24 Nov | Jaipur | World Cloud Summit is one of the largest gatherings of cloud services and internet infrastructure industries. |
 | [XP Conference India 2017](http://xpconference.in/2017XpConf/) | 17-18 Nov | Bengaluru | The 3rd International XP Conference on Agile Engineering practices for software product development. |
 | [Functional Conf](https://functionalconf.com/) | 16-19 Nov | Bengaluru | Asia's Premier Functional Programming Conference, designed to bring the growing community of functional programmers together under one roof. |
