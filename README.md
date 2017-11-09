@@ -13,6 +13,7 @@ If you would like to be notified of future conferences that would be added to th
 | Conference | Date | Venue | Description |
 |------------|------|-------|-------------|
 |[Google Developer Days](https://developers.google.com/events/gdd-india/) | 1-2 Dec | Bengaluru | Google Developer Days (GDD) are global events showcasing the latest developer products and platforms from Google to help you quickly develop high quality apps, grow & retain an active user base, and tap into tools to earn more. |
+|[SciPy India](https://scipy.in/2017) | 29-30 Nov | Mumbai | SciPy India is a conference providing opportunities to spread the use of the Python programming language in the Scientific Computing community in India. |
 | [World Cloud Summit](http://worldcloudsummit.com/) | 23-24 Nov | Jaipur | World Cloud Summit is one of the largest gatherings of cloud services and internet infrastructure industries. |
 | [XP Conference India 2017](http://xpconference.in/2017XpConf/) | 17-18 Nov | Bengaluru | The 3rd International XP Conference on Agile Engineering practices for software product development. |
 | [Data Visualisation Summit 2017](http://www.unicomlearning.com/2017/Data_Visualisation_Summit_Bangalore/) | 17 Nov | Bengaluru | This event will bring together industry professionals and thought leaders from the field of Data Visualization|
