@@ -12,7 +12,7 @@ If you would like to be notified of future conferences that would be added to th
 
 | Conference | Date | Venue | Description |
 |------------|------|-------|-------------|
-|[National Cyber Defence](https://summit.ncdrc.res.in/) |15-16 Dec | Goa | National Cyber Defence Summit is Asia's Biggest Cyber conclave dedicated to taking Cyber doamin of India to next level
+|[National Cyber Defence](https://summit.ncdrc.res.in/) |15-16 Dec | Goa | National Cyber Defence Summit is Asia's Biggest Cyber conclave dedicated to taking Cyber domain of India to next level
 |[Google Developer Days](https://developers.google.com/events/gdd-india/) | 1-2 Dec | Bengaluru | Google Developer Days (GDD) are global events showcasing the latest developer products and platforms from Google to help you quickly develop high quality apps, grow & retain an active user base, and tap into tools to earn more. |
 |[SciPy India](https://scipy.in/2017) | 29-30 Nov | Mumbai | SciPy India is a conference providing opportunities to spread the use of the Python programming language in the Scientific Computing community in India. |
 | [World Cloud Summit](http://worldcloudsummit.com/) | 23-24 Nov | Jaipur | World Cloud Summit is one of the largest gatherings of cloud services and internet infrastructure industries. |
