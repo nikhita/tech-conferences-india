@@ -79,7 +79,7 @@ If you would like to be notified of future conferences that would be added to th
 
 If you know of an upcoming tech conference or if you find something wrong, please contribute!
 
-To contribute to the list, please send a PR. If you don't have time to send in a PR, no worries, just open an issue or email me at nikitaraghunath@gmail.com and I'll look into it.
+To contribute to the list, please send a PR. If you don't have time to send in a PR, no worries, just open an issue and I'll look into it.
 
 **Format for contributions:**
 
