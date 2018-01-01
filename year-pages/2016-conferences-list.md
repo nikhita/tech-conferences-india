@@ -1,4 +1,4 @@
-## List of Tech Conferences in 2016 in India
+## 2016
 
 | Conference | Date | Venue | Description |
 |------------|------|-------|-------------|
