@@ -18,8 +18,8 @@ To add a conference to the list, please [contribute](#contributing)!
 
 ## Past Years
 
-- 2017 [List of Conferences](year-pages/2017-conferences-list.md)
-- 2016 [List of Conferences](year-pages/2016-conferences-list.md)
+- [2017](year-pages/2017-conferences-list.md)
+- [2016](year-pages/2016-conferences-list.md)
 
 ## Contributing
 
