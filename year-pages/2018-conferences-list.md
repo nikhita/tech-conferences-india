@@ -2,6 +2,7 @@
 
 | Conference | Date | Venue | Description |
 |------------|------|-------|-------------|
+| [JSFoo](https://jsfoo.in/2018/) | 13-14 Sep | Bengaluru | The eighth edition of India’s first JavaScript conference.
 | [Great Indian Developer Summit](http://www.developermarch.com/developersummit/index.html) | 24-27 Apr | Bengaluru | 	With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem.
 | [GopherCon India](http://www.gophercon.in/) | 09-10 Mar | Sheraton Grand, Sangamvadi, Pune | Go conference in India. Go is an open source project developed by a team at Google. |
 | [FOSSMeet '18](http://fossmeet.in/)| 17-18 Feb | NIT, Calicut |FOSSMeet is an annual event on Free and Open source software, conducted at NIT, Calicut. |  
