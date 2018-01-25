@@ -17,6 +17,7 @@ To add a conference to the list, please [contribute](#contributing)!
 | [Data Governance Summit 2018](http://datagovernance.in/index.html) | 8 Feb | JW Marriott, Mumbai | The conference which give insights of the current challenges being faced regarding data quality and security. |
 | [Hosting and Domain Conference India](http://www.hdcon.org/) | 3 Feb | Hyderabad | Hosting and Domain Conference is the World's Top initiative to discuss on hosting, domain, blogging and web technologies. |
 | [ReactFoo Pune](https://reactfoo.in/) | 19-20 Jan | Pune | A conference on the lessons learned while implementing React and React Native. |
+| [IN/Clojure](http://inclojure.org/) | 12-13 Jan | Bengaluru | IN/Clojure is India's annual Clojure conference. It is also the only Clojure conference in all of Asia.
 
 ## Past Years
 
