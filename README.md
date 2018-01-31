@@ -11,6 +11,7 @@ To add a conference to the list, please [contribute](#contributing)!
 | [JSFoo](https://jsfoo.in/2018/) | 13-14 Sep | Bengaluru | The eighth edition of India’s first JavaScript conference.
 | [PyCon India](https://in.pycon.org/2018/) | 22-26 Aug | Bengaluru International Exhibition Center (BIEC), Bengaluru | The premier conference in India on using and developing the Python programming language. |
 | [Great Indian Developer Summit](http://www.developermarch.com/developersummit/index.html) | 24-27 Apr | Bengaluru | 	With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem. |
+| [Distributed Systems Conference 2018](https://dsconf.in/) | 21 Apr | Pune | Best Practices and the Future of Distributed Systems. We want to help grow & highlight all the work in the areas of Distributed Systems. |
 | [GopherCon India](http://www.gophercon.in/) | 09-10 Mar | Sheraton Grand, Sangamvadi, Pune | Go conference in India. Go is an open source project developed by a team at Google. |
 | [FOSSMeet '18](http://fossmeet.in/)| 17-18 Feb | NIT, Calicut |FOSSMeet is an annual event on Free and Open source software, conducted at NIT, Calicut. |
 | [RubyConf India](http://rubyconfindia.org/) | 09-10 Feb | The Chancery Pavilion Hotel, Bengaluru | RubyConf India is a global event complementing other RubyConf events across the world. |
