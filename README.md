@@ -13,12 +13,12 @@ To add a conference to the list, please [contribute](#contributing)!
 | [Great Indian Developer Summit](http://www.developermarch.com/developersummit/index.html) | 24-27 Apr | Bengaluru | 	With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem. |
 | [GopherCon India](http://www.gophercon.in/) | 09-10 Mar | Sheraton Grand, Sangamvadi, Pune | Go conference in India. Go is an open source project developed by a team at Google. |
 | [FOSSMeet '18](http://fossmeet.in/)| 17-18 Feb | NIT, Calicut |FOSSMeet is an annual event on Free and Open source software, conducted at NIT, Calicut. |
+| [Gnunify 2018](http://gnunify.in/) | 16-17 Feb | SICSR, Pune | GNU/Linux and open source technologies and related. |
 | [RubyConf India](http://rubyconfindia.org/) | 09-10 Feb | The Chancery Pavilion Hotel, Bengaluru | RubyConf India is a global event complementing other RubyConf events across the world. |
 | [Data Governance Summit 2018](http://datagovernance.in/index.html) | 8 Feb | JW Marriott, Mumbai | The conference which give insights of the current challenges being faced regarding data quality and security. |
 | [Hosting and Domain Conference India](http://www.hdcon.org/) | 3 Feb | Hyderabad | Hosting and Domain Conference is the World's Top initiative to discuss on hosting, domain, blogging and web technologies. |
 | [ReactFoo Pune](https://reactfoo.in/) | 19-20 Jan | Pune | A conference on the lessons learned while implementing React and React Native. |
 | [IN/Clojure](http://inclojure.org/) | 12-13 Jan | Bengaluru | IN/Clojure is India's annual Clojure conference. It is also the only Clojure conference in all of Asia.
-| [Gnunify 2018](http://gnunify.in/) | 16-17 Feb | SICSR, Pune | GNU/Linux and open source technologies and related. |
 
 ## Past Years
 
