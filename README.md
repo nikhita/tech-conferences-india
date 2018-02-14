@@ -10,6 +10,7 @@ To add a conference to the list, please [contribute](#contributing)!
 |------------|------|-------|-------------|
 | [JSFoo](https://jsfoo.in/2018/) | 13-14 Sep | Bengaluru | The eighth edition of India’s first JavaScript conference.
 | [PyCon India](https://in.pycon.org/2018/) | 22-26 Aug | Bengaluru International Exhibition Center (BIEC), Bengaluru | The premier conference in India on using and developing the Python programming language. |
+| [Deccan RubyConf 2018](http://www.deccanrubyconf.org/) | 4 Aug | Hotel Sheraton Grand, Bund Garden Hotel, Sangamvadi, Pune | The fifth edition of the regional single track ruby conference + workshops. Tickets can be purchased at https://www.townscript.com/e/drc-2018 |
 | [Great Indian Developer Summit](http://www.developermarch.com/developersummit/index.html) | 24-27 Apr | Bengaluru | 	With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem. |
 | [Times AI Hub Artificial Intelligence Conclave](https://www.timesaihub.com/) | 16 Mar | IISc Bengaluru | Practical Implications of AI for enterprise organizations and Solutions transforming business productivity are discussed |
 | [GopherCon India](http://www.gophercon.in/) | 09-10 Mar | Sheraton Grand, Sangamvadi, Pune | Go conference in India. Go is an open source project developed by a team at Google. |
