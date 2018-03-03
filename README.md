@@ -13,6 +13,7 @@ To add a conference to the list, please [contribute](#contributing)!
 | [Great Indian Developer Summit](http://www.developermarch.com/developersummit/index.html) | 24-27 Apr | Bengaluru | 	With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem. |
 | [Times AI Hub Artificial Intelligence Conclave](https://www.timesaihub.com/) | 16 Mar | IISc Bengaluru | Practical Implications of AI for enterprise organizations and Solutions transforming business productivity are discussed |
 | [GopherCon India](http://www.gophercon.in/) | 09-10 Mar | Sheraton Grand, Sangamvadi, Pune | Go conference in India. Go is an open source project developed by a team at Google. |
+| [Nullcon Conference 2018](https://nullcon.net/website/) | 27 Feb-03 Mar | Holiday Inn Resort, Goa | Nullcon is computer/network security related conference. |
 | [FOSSMeet '18](http://fossmeet.in/)| 17-18 Feb | NIT, Calicut |FOSSMeet is an annual event on Free and Open source software, conducted at NIT, Calicut. |
 | [GNUnify 2018](http://gnunify.in/) | 16-17 Feb | SICSR, Pune | Conference related to GNU/Linux and open source technologies. |
 | [RubyConf India](http://rubyconfindia.org/) | 09-10 Feb | The Chancery Pavilion Hotel, Bengaluru | RubyConf India is a global event complementing other RubyConf events across the world. |
