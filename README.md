@@ -10,6 +10,7 @@ To add a conference to the list, please [contribute](#contributing)!
 |------------|------|-------|-------------|
 | [JSFoo](https://jsfoo.in/2018/) | 13-14 Sep | Bengaluru | The eighth edition of India’s first JavaScript conference.
 | [PyCon India](https://in.pycon.org/2018/) | 22-26 Aug | Bengaluru International Exhibition Center (BIEC), Bengaluru | The premier conference in India on using and developing the Python programming language. |
+| [World Satoshi Summit](https://www.worldsatoshisummit.com/) | 12-13 May | New Delhi | Bring all the students, entrepreneurs, blockchain enthusiasts, blockchain developers and influencers under one roof for a seamless exchange of ideas. |
 | [Great Indian Developer Summit](http://www.developermarch.com/developersummit/index.html) | 24-27 Apr | Bengaluru | 	With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem. |
 | [World Blockchain Technology Conclave](https://www.goeventz.com/event/the-world-blockchain-technology-conclave-2018/56893) | 22-23 Mar | Bangalore | Connect to global blockchain gurus and technology players in this space including emerging startups – with regional business and IT leaders. |
 | [Times AI Hub Artificial Intelligence Conclave](https://www.timesaihub.com/) | 16 Mar | IISc Bengaluru | Practical Implications of AI for enterprise organizations and Solutions transforming business productivity are discussed |
