@@ -9,9 +9,13 @@ To add a conference to the list, please [contribute](#contributing)!
 | Conference | Date | Venue | Description |
 |------------|------|-------|-------------|
 | [PyCon India](https://in.pycon.org/2018/) | 05-09 Oct | Hyderabad International Convention Centre (HICC), Hyderabad | The premier conference in India on using and developing the Python programming language. |
-| [JSFoo](https://jsfoo.in/2018/) | 13-14 Sep | Bengaluru | The eighth edition of India’s first JavaScript conference.
+| [JSFoo](https://jsfoo.in/2018/) | 13-14 Sep | Bengaluru | The eighth edition of India’s first JavaScript conference.|
+| [ODSC (One Data Science Conference) ](https://2018.seleniumconf.in/) | 30 Aug – 2 Sep | Hotel Lalit Ashok, Bengaluru  | Conference on AI and Data Science |
 | [Deccan RubyConf 2018](https://www.deccanrubyconf.org/) | 4 Aug | Sheraton Grand Hotel, Pune | Pune extension of RubyConf India organized by same folks organizing RubyConf India |
+| [DroidJam](https://www.droidjam.in) | 13-14 July | Sheraton Grand, Bangalore | Conference on Android |
+| [Selenium Conf 2018](https://2018.seleniumconf.in/) | 28-30 June | Hotel Lalit Ashok, Bangalore  | Conference on Selenium Web Browser Automation tool |
 | [World Satoshi Summit](https://www.worldsatoshisummit.com/) | 12-13 May | New Delhi | Bring all the students, entrepreneurs, blockchain enthusiasts, blockchain developers and influencers under one roof for a seamless exchange of ideas. |
+| [Rootconf 2018](https://rootconf.in/2018/) | 10-11 May | NIMHANS Convention Centre, Bangalore  | Conference on DevOps and IT Infrastructure |
 | [Great Indian Developer Summit](http://www.developermarch.com/developersummit/index.html) | 24-27 Apr | Bengaluru | 	With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem. |
 | [Distributed Systems Conference 2018](https://dsconf.in/) | 21 Apr | Sheraton Grand Hotel, Pune | DSConf is a conference on the best practices and the future of Distributed Systems. The conference aims at helping grow & highlighting all the work in the areas of Distributed Systems. |
 | [World Blockchain Technology Conclave](https://www.goeventz.com/event/the-world-blockchain-technology-conclave-2018/56893) | 22-23 Mar | Bangalore | Connect to global blockchain gurus and technology players in this space including emerging startups – with regional business and IT leaders. |
