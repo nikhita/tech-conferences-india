@@ -10,7 +10,7 @@ To add a conference to the list, please [contribute](#contributing)!
 |------------|------|-------|-------------|
 | [JSFoo](https://jsfoo.in/2018/) | 13-14 Sep | Bengaluru | The eighth edition of India’s first JavaScript conference.
 | [PyCon India](https://in.pycon.org/2018/) | 22-26 Aug | Bengaluru International Exhibition Center (BIEC), Bengaluru | The premier conference in India on using and developing the Python programming language. |
-| [AWS Global Summits 2018](https://aws.amazon.com/summits/) | 10 May | mumbai, Mumbai | AWS GLOBAL SUMMITS are free events that bring the cloud computing community together to connect, collaborate, and learn about AWS. |
+| [AWS Global Summits 2018](https://aws.amazon.com/summits/mumbai/) | 10 May | Bombay Exhibition Centre,Goregaon, Mumbai | AWS GLOBAL SUMMITS are free events that bring the cloud computing community together to connect, collaborate, and learn about AWS. |
 | [Great Indian Developer Summit](http://www.developermarch.com/developersummit/index.html) | 24-27 Apr | Bengaluru | 	With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem. |
 | [Times AI Hub Artificial Intelligence Conclave](https://www.timesaihub.com/) | 16 Mar | IISc Bengaluru | Practical Implications of AI for enterprise organizations and Solutions transforming business productivity are discussed |
 | [GopherCon India](http://www.gophercon.in/) | 09-10 Mar | Sheraton Grand, Sangamvadi, Pune | Go conference in India. Go is an open source project developed by a team at Google. |
