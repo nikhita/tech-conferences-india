@@ -13,6 +13,7 @@ To add a conference to the list, please [contribute](#contributing)!
 | [PyCon India](https://in.pycon.org/2018/) | 05-09 Oct | Hyderabad International Convention Centre (HICC), Hyderabad | The premier conference in India on using and developing the Python programming language. |
 | [JSFoo](https://jsfoo.in/2018/) | 13-14 Sep | Bengaluru | The eighth edition of India’s first JavaScript conference.|
 | [ODSC (One Data Science Conference) ](https://india.odsc.com/) | 30 Aug – 2 Sep | Hotel Lalit Ashok, Bengaluru  | Conference on AI and Data Science |
+| [ReactFoo-Delhi 2018](https://reactfoo.in/2018-delhi/) | 18 Aug | Venue-TBA | ReactFoo Delhi Conference On React, alternatives to React, React Native and front-end engineering. |
 | [DevConf.in 2018](https://devconf.info/in) | 4-5 Aug | Christ University - Bengaluru | Annual Developers' Conference organised by Red Hat for local FOSS community |
 | [Deccan RubyConf 2018](https://www.deccanrubyconf.org/) | 4 Aug | Sheraton Grand Hotel, Pune | Pune extension of RubyConf India organized by same folks organizing RubyConf India |
 | [DroidJam](https://www.droidjam.in) | 13-14 July | Sheraton Grand, Bangalore | Conference on Android |
