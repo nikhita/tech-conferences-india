@@ -16,6 +16,7 @@ To add a conference to the list, please [contribute](#contributing)!
 | [ReactFoo-Delhi](https://reactfoo.in/2018-delhi/) | 18 Aug | TBA | React, alternatives to React, React Native and front-end engineering. |
 | [DevConf.in 2018](https://devconf.info/in) | 4-5 Aug | Christ University - Bengaluru | Annual Developers' Conference organised by Red Hat for local FOSS community |
 | [Deccan RubyConf 2018](https://www.deccanrubyconf.org/) | 4 Aug | Sheraton Grand Hotel, Pune | Pune extension of RubyConf India organized by same folks organizing RubyConf India |
+| [Container Conference](https://www.containerconf.in/) | 3-4 Aug | Radisson Blu (Park Plaza), ORR, Bangalore | Container Conference is a developer focused conference on Docker, Managed Kubernetes/Container Services, Service Mesh, Kubernetes |
 | [DroidJam](https://www.droidjam.in) | 13-14 July | Sheraton Grand, Bangalore | Conference on Android |
 | [Selenium Conf 2018](https://2018.seleniumconf.in/) | 28-30 June | Hotel Lalit Ashok, Bangalore  | Conference on Selenium Web Browser Automation tool |
 | [IBM Developer Day(Artificial Intelligence)](https://ibm.biz/ibmdevday) | 30 June | Manyata Tech Park,Bangalore  |  A day long event designed for developers to enhance their skills and gain hands on experience with the latest technology in areas of Artificial Intelligence.|
