@@ -4,6 +4,8 @@
 
 To add a conference to the list, please [contribute](#contributing)!
 
+Note : 2019 conferences are listed [here](year-pages/2019-conferences-list.md).
+
 ## 2018
 
 | Conference | Date | Venue | Description |
