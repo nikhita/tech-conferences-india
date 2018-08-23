@@ -14,7 +14,7 @@ Note : 2019 conferences are listed [here](year-pages/2019-conferences-list.md).
 | [Devops Days India](http://devopsdaysindia.org/) | 8-9 Dec | Sheraton Grand, Bengaluru | Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. | 
 | [JSFoo](https://jsfoo.in/2018/) | 26-27 Oct | NIMHANS Convention Centre, Bengaluru | The eighth edition of India’s first JavaScript conference.|
 | [PyCon India](https://in.pycon.org/2018/) | 05-09 Oct | Hyderabad International Convention Centre (HICC), Hyderabad | The premier conference in India on using and developing the Python programming language. |
-| [AWS Community Day Bengaluru 2018](https://communityday.awsugblr.in/) | 05-06 Oct | The Ritz-Carlton, Bangalore | Use Cases / Success Stories and Workshops on Amazon Web Services |
+| [AWS Community Day Bengaluru](https://communityday.awsugblr.in/) | 05-06 Oct | The Ritz-Carlton, Bangalore | Use Cases / Success Stories and Workshops on Amazon Web Services |
 | [ODSC (One Data Science Conference) ](https://india.odsc.com/) | 30 Aug – 2 Sep | Hotel Lalit Ashok, Bengaluru  | Conference on AI and Data Science |
 | [ReactFoo-Delhi](https://reactfoo.in/2018-delhi/) | 18 Aug | India International Centre, Max Mueller Marg, New Delhi | React, alternatives to React, React Native and front-end engineering. |
 | [DevConf.in 2018](https://devconf.info/in) | 4-5 Aug | Christ University - Bengaluru | Annual Developers' Conference organised by Red Hat for local FOSS community |
