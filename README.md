@@ -13,10 +13,10 @@ Note : 2019 conferences are listed [here](year-pages/2019-conferences-list.md).
 | [FunctionalConf](https://functionalconf.com/) | 12-16 Dec | The LaLiT Ashok Hotel, Bengaluru | Bring together the growing community of functional programmers under one roof. |
 | [Devops Days India](http://devopsdaysindia.org/) | 8-9 Dec | Sheraton Grand, Bengaluru | Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. | 
 | [JSFoo](https://jsfoo.in/2018/) | 26-27 Oct | NIMHANS Convention Centre, Bengaluru | The eighth edition of India’s first JavaScript conference.|
-| [Meta Refresh](https://metarefresh.in/) | 26-27 Oct | NIMHANS Convention Centre, Dairy Circle, Bengaluru | On interaction design and CSS from product and business standpoints. |
+| [Meta Refresh](https://metarefresh.in/) | 26-27 Oct | NIMHANS Convention Centre, Bengaluru | On interaction design and CSS from product and business standpoints. |
 | [PyCon India](https://in.pycon.org/2018/) | 05-09 Oct | Hyderabad International Convention Centre (HICC), Hyderabad | The premier conference in India on using and developing the Python programming language. |
 | [AWS Community Day Bengaluru](https://communityday.awsugblr.in/) | 05-06 Oct | The Ritz-Carlton, Bangalore | Use Cases / Success Stories and Workshops on Amazon Web Services |
-| [PySangamam](https://pysangamam.org/) | 07-08 Sept | IC & SR - IIT Madras | Tamil Nadu's first Python conference |
+| [PySangamam](https://pysangamam.org/) | 07-08 Sep | IC & SR - IIT Madras | Tamil Nadu's first Python conference. |
 | [ODSC (One Data Science Conference) ](https://india.odsc.com/) | 30 Aug – 2 Sep | Hotel Lalit Ashok, Bengaluru  | Conference on AI and Data Science |
 | [ReactFoo-Delhi](https://reactfoo.in/2018-delhi/) | 18 Aug | India International Centre, Max Mueller Marg, New Delhi | React, alternatives to React, React Native and front-end engineering. |
 | [DevConf.in 2018](https://devconf.info/in) | 4-5 Aug | Christ University - Bengaluru | Annual Developers' Conference organised by Red Hat for local FOSS community |
