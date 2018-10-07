@@ -10,6 +10,7 @@ Note : 2019 conferences are listed [here](year-pages/2019-conferences-list.md).
 
 | Conference | Date | Venue | Description |
 |------------|------|-------|-------------|
+| [SciPy India](https://scipy.in) |21-22 Dec | IIT Bombay | International conference on Python for education and scientific computing. |
 | [FunctionalConf](https://functionalconf.com/) | 12-16 Dec | The LaLiT Ashok Hotel, Bengaluru | Bring together the growing community of functional programmers under one roof. |
 | [Devops Days India](http://devopsdaysindia.org/) | 8-9 Dec | Sheraton Grand, Bengaluru | Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. | 
 | [PyBITS](https://pybits.bits-hyd.org/) | 27-28 Oct | BITS Pilani Hyderabad Campus, Hyderabad | The annual student centric Python conference.|
