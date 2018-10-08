@@ -13,6 +13,7 @@ Note : 2019 conferences are listed [here](year-pages/2019-conferences-list.md).
 | [SciPy India](https://scipy.in) |21-22 Dec | IIT Bombay | International conference on Python for education and scientific computing. |
 | [FunctionalConf](https://functionalconf.com/) | 12-16 Dec | The LaLiT Ashok Hotel, Bengaluru | Bring together the growing community of functional programmers under one roof. |
 | [Devops Days India](http://devopsdaysindia.org/) | 8-9 Dec | Sheraton Grand, Bengaluru | Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. | 
+| [Data Hack Summit](https://www.analyticsvidhya.com/datahack-summit-2018/?utm_source=kdnuggets) | 22-24 Nov | NIMHANS Convention Centre, Bengaluru | India's most advanced conference on Aritificial Intelligence, Machine Learning, Deep Learning and IoT |
 | [PyBITS](https://pybits.bits-hyd.org/) | 27-28 Oct | BITS Pilani Hyderabad Campus, Hyderabad | The annual student centric Python conference.|
 | [JSFoo](https://jsfoo.in/2018/) | 26-27 Oct | NIMHANS Convention Centre, Bengaluru | The eighth edition of India’s first JavaScript conference.|
 | [PyCon India](https://in.pycon.org/2018/) | 05-09 Oct | Hyderabad International Convention Centre (HICC), Hyderabad | The premier conference in India on using and developing the Python programming language. |
