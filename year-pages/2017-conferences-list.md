@@ -6,8 +6,8 @@
 |[Google Developer Days](https://developers.google.com/events/gdd-india/) | 1-2 Dec | Bengaluru | Google Developer Days (GDD) are global events showcasing the latest developer products and platforms from Google to help you quickly develop high quality apps, grow & retain an active user base, and tap into tools to earn more. |
 |[SciPy India](https://scipy.in/2017) | 29-30 Nov | Mumbai | SciPy India is a conference providing opportunities to spread the use of the Python programming language in the Scientific Computing community in India. |
 | [World Cloud Summit](http://worldcloudsummit.com/) | 23-24 Nov | Jaipur | World Cloud Summit is one of the largest gatherings of cloud services and internet infrastructure industries. |
-| [XP Conference India 2017](http://xpconference.in/2017XpConf/) | 17-18 Nov | Bengaluru | The 3rd International XP Conference on Agile Engineering practices for software product development. |
-| [Data Visualisation Summit 2017](http://www.unicomlearning.com/2017/Data_Visualisation_Summit_Bangalore/) | 17 Nov | Bengaluru | This event will bring together industry professionals and thought leaders from the field of Data Visualization|
+| [XP Conference India](http://xpconference.in/2017XpConf/) | 17-18 Nov | Bengaluru | The 3rd International XP Conference on Agile Engineering practices for software product development. |
+| [Data Visualisation Summit](http://www.unicomlearning.com/2017/Data_Visualisation_Summit_Bangalore/) | 17 Nov | Bengaluru | This event will bring together industry professionals and thought leaders from the field of Data Visualization|
 | [Functional Conf](https://functionalconf.com/) | 16-19 Nov | Bengaluru | Asia's Premier Functional Programming Conference, designed to bring the growing community of functional programmers together under one roof. |
 | [try! swift](https://www.tryswift.co/events/2017/bangalore/) | 18-19 Nov | MLR Convention Centre, Bengaluru | try! Swift India is an amazing chance for developers in the Asian Pacific region to learn the latest world trends in iOS, tvOS, and watchOS development using the industry's best standards. |
 | [Grace Hopper Celebration India (GHCI)](https://ghcindia.anitaborg.org/) | 16-17 Nov |  Bengaluru International Exhibition Center (BIEC), Bengaluru | The Grace Hopper Celebration of Women in Computing (India) is India's largest gathering of women technologists. |
@@ -16,21 +16,21 @@
 | [IEEE Cloud Computing for Emerging Markets Conference](http://conferences.computer.org/ccem/about.html) | 1-3 Nov | Bangalore | Running its 6th year of research driven innovation conference on cloud computing. |
 | [React Native Beginners workshop](https://reactfoo.in/) | 29 Oct | Bangalore | Learn how to build native iOS and android app using React Native |
 | [Serverless Summit](http://inserverless.com/) | 27 Oct | Bangalore | India’s first confluence on serverless technologies. |
-| [Open Source India 2017](http://opensourceindia.in/osidays/) | 13-14 Oct | Bengaluru, NIMHANS Convention Center | Open Source India brings the open source community to one floor, to explore what’s new and exciting in open source languages, tools, and techniques. |
+| [Open Source India](http://opensourceindia.in/osidays/) | 13-14 Oct | Bengaluru, NIMHANS Convention Center | Open Source India brings the open source community to one floor, to explore what’s new and exciting in open source languages, tools, and techniques. |
 | [PyConf Hyderabad](http://pyconf.hydpy.org/) | 07-08 Oct | IIIT Hyderabad, Hyderabad | First Python Conference in Hyderabad for the development of Python programming language. |
-| [ICCE 2017](http://www.icce-asia2017.org/) | 05-07 Oct | Bengaluru | 2nd International Conference on Consumer Electronics Asia |
+| [ICCE](http://www.icce-asia2017.org/) | 05-07 Oct | Bengaluru | 2nd International Conference on Consumer Electronics Asia |
 | [India Blockchain Week](https://www.indiablockchainweek.com/)| 22-26 Sept | Leela Hotel, Mumbai| Blockchain technology has created waves around the World, bringing transparency and massively reducing costs. |
-| [CYPHER 2017](http://www.analyticsindiasummit.com/about/) | 21-23 Sept | Hotel Park Plaza, Bengaluru | A platform to network and learn Analytics, Data Science and AI discipline. |
+| [CYPHER](http://www.analyticsindiasummit.com/about/) | 21-23 Sept | Hotel Park Plaza, Bengaluru | A platform to network and learn Analytics, Data Science and AI discipline. |
 | [DevOps Summit](http://www.unicomlearning.com/2017/DevOps_Summit_Pune/) | 16 Sept | Pune | The conference brings together leading practitioner-organisations who have achieved Continuous Delivery and organisational transformation. |
 | [JSFoo](https://jsfoo.in/2017/) | 15-16 Sept | MLR Convention Centre, Bengaluru | JSFoo is India’s premier JavaScript conference, hosted by HasGeek. The broad theme this year is building reliable web apps.  |
 | [DevOps Days India](https://devopsdaysindia.org/) | 15-16 Sept | Hotel Vivanta by Taj, MG Road, Bengaluru | DevOpsDays India is a global event complementing other DevOpsDays events across the world. |
 | [IOT Summit](http://www.unicomlearning.com/2017/IoT_Summit_Pune/)| 15 Sept | Pune | The conference explores how the Internet of Things will re-shape our interactions with the real and virtual worlds in the coming year.|
-| [ReactFoo 2017](https://hasgeek.com/) | 14 Sept | Bengaluru | ReactFoo is a single-day React conference by HasGeek. |
+| [ReactFoo](https://hasgeek.com/) | 14 Sept | Bengaluru | ReactFoo is a single-day React conference by HasGeek. |
 | [CloudSec](https://www.cloudsec.com/in/) | 13 Sept | JW Marriott, Mumbai | It is a conference about IT Security Technologies, Policies and Compliance. |
-| [Fragments 2017](https://hasgeek.com/) | 12-13 Sept | Bengaluru | Fragments is a two-day conference on the mobile ecosystem in India. |
+| [Fragments](https://hasgeek.com/) | 12-13 Sept | Bengaluru | Fragments is a two-day conference on the mobile ecosystem in India. |
 | [DevOps++ Global Summit](https://www.townscript.com/e/devopsglobalsummitdoppa2017) | 9 Sept | Pune | It is a way to get the community together and experience the latest in DevOps and beyond. The ++ in DevOps++ is all about going beyond DevOps. |
 | [IndiaHacks Conference](https://www.hackerearth.com/indiahacks-conference/) | 8-9 Sept | Vivanta By Taj, Bengaluru | HackerEarth is conducting this conference to celebrate the spirit of programming by spreading the knowledge and catalyzing the desire to create something extraordinary. |
-| [PyData Delhi 2017](https://pydata.org/delhi2017/) | 2-3 Sept | IIIT, Delhi | PyData conference brings together users and developers of data analysis tools to share ideas and learn from each other. |
+| [PyData Delhi](https://pydata.org/delhi2017/) | 2-3 Sept | IIIT, Delhi | PyData conference brings together users and developers of data analysis tools to share ideas and learn from each other. |
 |[Data Visualization Summit](http://www.unicomlearning.com/2017/Data_Visualization_Summit_Mumbai/)| 1 Sept| Mumbai | A primary goal of data visualization is to communicate information clearly and efficiently via statistical graphics. |
 | [Oracle Code Bengaluru ](https://developer.oracle.com/code/bangalore) | 10 Aug | Bengaluru, Karnataka | Oracle Code is a free event for developers to learn about the latest developer technologies, practices, and trends.|
 | [JS Channel](http://2017.jschannel.com/) | 28-29 July | JW Marriott Hotel, Bengaluru | JS Channel is a unique platform to hear bests speakers in JS Community. |
@@ -55,4 +55,4 @@
 | [PyCon Pune](https://pune.pycon.org/) | 16-19 Feb | College of Engineering Pune |  The gathering for the community using and developing the open-source Python programming language. |
 | [RubyConf India](http://rubyconfindia.org/) | 27-29 Jan | Le Meridien, Kochi |  RubyConf India is a global event complementing other RubyConf events across the world. |
 | [50pConf](https://50p.in/2017/) | 24-25 Jan | MLR Convention Centre, Bengaluru | A conference on India's payments ecosystem. |
-| [WikiToLearn India Conference 2017](https://india2017.wikitolearn.events) | 18-19 Jan | THE LNMIIT, Jaipur | WikiToLearnConf India is a global event comprising WikiToLearn, Mediawiki and KDE developers from all over India and world. |
+| [WikiToLearn India Conference](https://india2017.wikitolearn.events) | 18-19 Jan | THE LNMIIT, Jaipur | WikiToLearnConf India is a global event comprising WikiToLearn, Mediawiki and KDE developers from all over India and world. |
