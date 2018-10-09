@@ -50,7 +50,7 @@ Note : 2019 conferences are listed [here](year-pages/2019-conferences-list.md).
 
 ## Contributing
 
-If you know of an upcoming tech conference, please contribute!
+If you know of an upcoming tech conference, please contribute! Please note that only community conferences which allow CFPs are allowed in this list.
 
 To contribute to the list, please send a Pull Request. If you don't have time to send in a Pull Request, no worries, just open an issue and I'll look into it.
 
