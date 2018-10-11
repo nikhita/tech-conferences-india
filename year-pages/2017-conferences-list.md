@@ -7,15 +7,15 @@
 |[SciPy India](https://scipy.in/2017) | 29-30 Nov | Mumbai | SciPy India is a conference providing opportunities to spread the use of the Python programming language in the Scientific Computing community in India. |
 | [World Cloud Summit](http://worldcloudsummit.com/) | 23-24 Nov | Jaipur | World Cloud Summit is one of the largest gatherings of cloud services and internet infrastructure industries. |
 | [XP Conference India](http://xpconference.in/2017XpConf/) | 17-18 Nov | Bengaluru | The 3rd International XP Conference on Agile Engineering practices for software product development. |
-| [Data Visualisation Summit](http://www.unicomlearning.com/2017/Data_Visualisation_Summit_Bangalore/) | 17 Nov | Bengaluru | This event will bring together industry professionals and thought leaders from the field of Data Visualization|
+| [Data Visualisation Summit](http://www.unicomlearning.com/2017/Data_Visualisation_Summit_Bengaluru/) | 17 Nov | Bengaluru | This event will bring together industry professionals and thought leaders from the field of Data Visualization|
 | [Functional Conf](https://functionalconf.com/) | 16-19 Nov | Bengaluru | Asia's Premier Functional Programming Conference, designed to bring the growing community of functional programmers together under one roof. |
 | [try! swift](https://www.tryswift.co/events/2017/bangalore/) | 18-19 Nov | MLR Convention Centre, Bengaluru | try! Swift India is an amazing chance for developers in the Asian Pacific region to learn the latest world trends in iOS, tvOS, and watchOS development using the industry's best standards. |
 | [Grace Hopper Celebration India (GHCI)](https://ghcindia.anitaborg.org/) | 16-17 Nov |  Bengaluru International Exhibition Center (BIEC), Bengaluru | The Grace Hopper Celebration of Women in Computing (India) is India's largest gathering of women technologists. |
 | [DataHack Summit](https://www.analyticsvidhya.com/datahacksummit/) | 9-11 Nov | Bengaluru | DataHack Summit is an initiative by Analytics Vidhya to bring together the finest data scientists from across the country & globe. |
 | [PyCon India](https://in.pycon.org/2017/) | 2-5 Nov | Shaheed Sukhdev College of Business Studies, New Delhi | The premier conference in India on using and developing the Python programming language. |
-| [IEEE Cloud Computing for Emerging Markets Conference](http://conferences.computer.org/ccem/about.html) | 1-3 Nov | Bangalore | Running its 6th year of research driven innovation conference on cloud computing. |
-| [React Native Beginners workshop](https://reactfoo.in/) | 29 Oct | Bangalore | Learn how to build native iOS and android app using React Native |
-| [Serverless Summit](http://inserverless.com/) | 27 Oct | Bangalore | India’s first confluence on serverless technologies. |
+| [IEEE Cloud Computing for Emerging Markets Conference](http://conferences.computer.org/ccem/about.html) | 1-3 Nov | Bengaluru | Running its 6th year of research driven innovation conference on cloud computing. |
+| [React Native Beginners workshop](https://reactfoo.in/) | 29 Oct | Bengaluru | Learn how to build native iOS and android app using React Native |
+| [Serverless Summit](http://inserverless.com/) | 27 Oct | Bengaluru | India’s first confluence on serverless technologies. |
 | [Open Source India](http://opensourceindia.in/osidays/) | 13-14 Oct | Bengaluru, NIMHANS Convention Center | Open Source India brings the open source community to one floor, to explore what’s new and exciting in open source languages, tools, and techniques. |
 | [PyConf Hyderabad](http://pyconf.hydpy.org/) | 07-08 Oct | IIIT Hyderabad, Hyderabad | First Python Conference in Hyderabad for the development of Python programming language. |
 | [ICCE](http://www.icce-asia2017.org/) | 05-07 Oct | Bengaluru | 2nd International Conference on Consumer Electronics Asia |
