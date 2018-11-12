@@ -2,7 +2,7 @@
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
-| [React India](https://www.reactindia.io/) | 22-24 Aug | Goa | A 3 day conference with first day focussing on workshops & the next 2 days talks on things around React, React Native & GraphQL. Regular and lightning talks will cover various React.JS and FE topics including React Native, GraphQL, VR & AR, Redux, Preact and more! | No |
+| [React India](https://www.reactindia.io/) | 22-24 Aug | Goa | A 3 day conference with first day focussing on workshops & the next 2 days talks on things around React, React Native, GraphQL, VR & AR, Redux, Preact and more | No |
 | [ReactFoo](https://reactfoo.in/2019/) | 1-2 Mar | NIMHANS Convention Centre, Bengaluru | A conference on React, alternatives to React, React Native and front-end engineering | No |
 | [SACON](https://www.sacon.io/) | 15-16 Feb | Bengaluru |  India’s 1st Security Architecture Conference | No |
 | [PGConf India](https://pgconf.in/conferences/pgconfin2019) | 13-15 Feb | Bengaluru | Conference for Postgresql users and devs | No |
