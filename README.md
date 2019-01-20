@@ -9,6 +9,7 @@ To add a conference to the list, please [contribute](#contributing)!
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
 | [React India](https://www.reactindia.io/) | 26-28 Sep | Goa | A 3 day conference with first day focussing on workshops & the next 2 days talks on things around React, React Native, GraphQL, VR & AR, Redux, Preact and more. | No |
+| [Kubernetes Day India](https://events.linuxfoundation.org/events/kubernetes-day-india-2019/) | 23 March | Infosys Limited, Plot No 44/45, Bengaluru | Kubernetes Day is a single day, single track event that brings together local and international experts to engage developers interested in Kubernetes and related cloud native technologies. | No |
 | [ReactFoo](https://reactfoo.in/2019/) | 1-2 Mar | NIMHANS Convention Centre, Bengaluru | A conference on React, alternatives to React, React Native and front-end engineering. | No |
 | [SACON](https://www.sacon.io/) | 15-16 Feb | Bengaluru |  India’s 1st Security Architecture Conference. | No |
 | [PGConf India](https://pgconf.in/conferences/pgconfin2019) | 13-15 Feb | Bengaluru | Conference for Postgresql users and devs. | No |
@@ -17,7 +18,7 @@ To add a conference to the list, please [contribute](#contributing)!
 | [Pragma IIITA](http://pragmaconf.tech/) | 19 -20 Jan | Indian Insitute of Information Technology, Allahabad | Pragma is premier student design and developers’ conference held at IIIT-Allahabad. Attracting some of the best student developers from across India, Pragma is a 3 day extravaganza featuring a hackathon, workshops and numerous talks. | No
 | [GopherCon](https://gopherconindia.com/) | 18-19 Jan | Hotel Park Regis, Goa | Go conference in India. Go is an open source project developed by a team at Google and many contributors for the open source community. | [Yes]( https://gopherconindia.com/scholarship/) |
 | [JSFoo Pune](https://jsfoo.in/2019-pune/) | 10 Jan | MCCIA Trade Tower, Pune | The second Pune edition of India’s premier JavaScript conference. | No |
-| [Kubernetes Day India](https://events.linuxfoundation.org/events/kubernetes-day-india-2019/) | 23 March | Infosys Limited, Plot No 44/45, Bengaluru | Kubernetes Day is a single day, single track event that brings together local and international experts to engage developers interested in Kubernetes and related cloud native technologies. | No |
+
 
 ## Past Years
 
