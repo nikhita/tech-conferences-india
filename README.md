@@ -19,7 +19,6 @@ To add a conference to the list, please [contribute](#contributing)!
 | [GopherCon](https://gopherconindia.com/) | 18-19 Jan | Hotel Park Regis, Goa | Go conference in India. Go is an open source project developed by a team at Google and many contributors for the open source community. | [Yes]( https://gopherconindia.com/scholarship/) |
 | [JSFoo Pune](https://jsfoo.in/2019-pune/) | 10 Jan | MCCIA Trade Tower, Pune | The second Pune edition of India’s premier JavaScript conference. | No |
 
-
 ## Past Years
 
 - [2018](year-pages/2018.md)
