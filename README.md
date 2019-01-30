@@ -8,6 +8,7 @@ To add a conference to the list, please [contribute](#contributing)!
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
+| [TechHR ](https://india.techhrconference.com/) | 01-02 Aug | Gurugram | To make business happen,  meaningful conversations take place among professionals and business stalwarts. It is where innovation guides the way and thought leaders and new age service providers converge to create an ecosystem of brilliance in the domain of work technology. | No |
 | [React India](https://www.reactindia.io/) | 26-28 Sep | Goa | A 3 day conference with first day focussing on workshops & the next 2 days talks on things around React, React Native, GraphQL, VR & AR, Redux, Preact and more. | No |
 | [Kubernetes Day India](https://events.linuxfoundation.org/events/kubernetes-day-india-2019/) | 23 March | Infosys Limited, Plot No 44/45, Bengaluru | Kubernetes Day is a single day, single track event that brings together local and international experts to engage developers interested in Kubernetes and related cloud native technologies. | No |
 | [ReactFoo](https://reactfoo.in/2019/) | 1-2 Mar | NIMHANS Convention Centre, Bengaluru | A conference on React, alternatives to React, React Native and front-end engineering. | No |
