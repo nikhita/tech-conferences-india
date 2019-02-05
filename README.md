@@ -11,6 +11,7 @@ To add a conference to the list, please [contribute](#contributing)!
 | [React India](https://www.reactindia.io/) | 26-28 Sep | Goa | A 3 day conference with first day focussing on workshops & the next 2 days talks on things around React, React Native, GraphQL, VR & AR, Redux, Preact and more. | No |
 | [Kubernetes Day India](https://events.linuxfoundation.org/events/kubernetes-day-india-2019/) | 23 March | Infosys Limited, Plot No 44/45, Bengaluru | Kubernetes Day is a single day, single track event that brings together local and international experts to engage developers interested in Kubernetes and related cloud native technologies. | No |
 | [ReactFoo](https://reactfoo.in/2019/) | 1-2 Mar | NIMHANS Convention Centre, Bengaluru | A conference on React, alternatives to React, React Native and front-end engineering. | No |
+| [DSConf](https://dsconf.in/) | 16 Feb | Pune | Conference on Distributed Systems | No |
 | [SACON](https://www.sacon.io/) | 15-16 Feb | Bengaluru |  India’s 1st Security Architecture Conference. | No |
 | [PGConf India](https://pgconf.in/conferences/pgconfin2019) | 13-15 Feb | Bengaluru | Conference for Postgresql users and devs. | No |
 | [Processing Community Day](https://processingindia.org/bangalore.html) | 2 Feb| Bengaluru | Processing Community Day (PCD) is a day to celebrate and explore art, code, and diversity around the world, conducted by Processing community. | No |
