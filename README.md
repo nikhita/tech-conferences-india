@@ -9,8 +9,8 @@ To add a conference to the list, please [contribute](#contributing)!
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
 | [React India](https://www.reactindia.io/) | 26-28 Sep | Goa | A 3 day conference with first day focussing on workshops & the next 2 days talks on things around React, React Native, GraphQL, VR & AR, Redux, Preact and more. | No |
-| [REDHAT DevConf.IN](https://devconf.info/in) | 2-3 Aug | To be decided | DevConf.IN 2019 is the second annual Developers' Conference to be organised by Red Hat in India. | No (Free for all) |
-| [GraphQL Asia](https://www.graphql-asia.org/) | 12-13 Apr | Bangalore | GraphQL Asia celebrates one of the most exciting technologies to have emerged in recent times and the engineers and technologists who have contributed to its development, with a particular focus on the Asian GraphQL community. | No |
+| [DevConf.IN](https://devconf.info/in) | 2-3 Aug | To be decided | DevConf.IN 2019 is the second annual Developers' Conference to be organised by Red Hat in India. | No (Free for all) |
+| [GraphQL Asia](https://www.graphql-asia.org/) | 12-13 Apr | The Chancery Pavilion, Bangalore | GraphQL Asia celebrates one of the most exciting technologies to have emerged in recent times and the engineers and technologists who have contributed to its development, with a particular focus on the Asian GraphQL community. | No |
 | [Kubernetes Day India](https://events.linuxfoundation.org/events/kubernetes-day-india-2019/) | 23 March | Infosys Limited, Plot No 44/45, Bengaluru | Kubernetes Day is a single day, single track event that brings together local and international experts to engage developers interested in Kubernetes and related cloud native technologies. | No |
 | [ReactFoo](https://reactfoo.in/2019/) | 1-2 Mar | NIMHANS Convention Centre, Bengaluru | A conference on React, alternatives to React, React Native and front-end engineering. | No |
 | [NULLCON Goa](https://nullcon.net/website/) | 1-2 March | Holiday Inn Resort, Goa | A two day information exchange platform and CTF. | No |
