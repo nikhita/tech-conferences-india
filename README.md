@@ -9,6 +9,7 @@ To add a conference to the list, please [contribute](#contributing)!
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
 | [PyCon India 2019](https://in.pycon.org/2019/) |  12-15 October |  Chennai Trade Center and IIT Madras Research Park  | India's premier conference on using and developing the Python programming language | No |
+| [JSFoo Bangalore] (https://jsfoo.in/2019/) | 27-28 Sep | Nimhans Convention Center, Bangalore | JSFoo is in its ninth edition this year. The 2019 edition is a two-track event with talks and Birds of Feather (BOF) sessions | No |
 | [React India](https://www.reactindia.io/) | 26-28 Sep | Goa | A 3 day conference with first day focussing on workshops & the next 2 days talks on things around React, React Native, GraphQL, VR & AR, Redux, Preact and more. | No |
 | [DevConf.IN](https://devconf.info/in) | 2-3 Aug | Bengaluru, India | DevConf.IN 2019 is the second annual Developers' Conference to be organised by Red Hat in India. | No (Free for all) |
 | [AWS Community Day, Bangalore](https://communityday.awsugblr.in/) | 26-27 Jul | Conrad, Bangalore | Flagship community event organized by AWS UserGroup that's spread over 2 days including workshops and the conference. | No |
