@@ -9,6 +9,7 @@ To add a conference to the list, please [contribute](#contributing)!
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
 | [PyCon India](https://in.pycon.org/2019/) |  12-15 Oct |  Chennai Trade Center and IIT Madras Research Park  | India's premier conference on using and developing the Python programming language | No |
+| [PyData India](https://pydata.org/delhi2019/) | 3-4 Aug |  IIIT Delhi | A conference for data-science enthusiasts for using Python programming language to work with data | No | 
 | [JSFoo Bangalore](https://hasgeek.com/jsfoo/2019/) | 27-28 Sep | NIMHANS Convention Centre, Bangalore | JSFoo is in its ninth edition this year. The 2019 edition is a two-track event with talks and Birds of Feather (BOF) sessions | No |
 | [React India](https://www.reactindia.io/) | 26-28 Sep | Goa | A 3 day conference with first day focussing on workshops & the next 2 days talks on things around React, React Native, GraphQL, VR & AR, Redux, Preact and more. | [Yes](https://www.notion.so/Scholarship-Program-React-India-2019-490794dd0a464db0a43b4c8c5440839f) |
 | [JSFoo: VueDay](https://hasgeek.com/jsfoo/2019-vueday/proposals) | 30 Aug | Bangalore International Centre | A day spent discussing Vue.js, developments in the Vue ecosystem and component architecture | Yes, for speakers |
