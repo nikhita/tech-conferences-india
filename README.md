@@ -8,6 +8,7 @@ To add a conference to the list, please [contribute](#contributing)!
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
+| [droidcon India](https://www.in.droidcon.com) | 2-3 Nov | Chennai, India (Exact venue to be decided) | Droidcon is the largest global network of developer conferences which bring together the industry's foremost experts dedicated to advancing the Android platform. | No |
 | [PyCon India](https://in.pycon.org/2019/) |  12-15 Oct |  Chennai Trade Center and IIT Madras Research Park  | India's premier conference on using and developing the Python programming language | No |
 | [JSFoo Bangalore](https://hasgeek.com/jsfoo/2019/) | 27-28 Sep | NIMHANS Convention Centre, Bangalore | JSFoo is in its ninth edition this year. The 2019 edition is a two-track event with talks and Birds of Feather (BOF) sessions | No |
 | [React India](https://www.reactindia.io/) | 26-28 Sep | Goa | A 3 day conference with first day focussing on workshops & the next 2 days talks on things around React, React Native, GraphQL, VR & AR, Redux, Preact and more. | [Yes](https://www.notion.so/Scholarship-Program-React-India-2019-490794dd0a464db0a43b4c8c5440839f) |
