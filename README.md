@@ -4,48 +4,52 @@
 
 To add a conference to the list, please [contribute](#contributing)!
 
-## 2018
+## 2019
 
-| Conference | Date | Venue | Description |
-|------------|------|-------|-------------|
-| [PyCon India](https://in.pycon.org/2018/) | 05-09 Oct | Hyderabad International Convention Centre (HICC), Hyderabad | The premier conference in India on using and developing the Python programming language. |
-| [JSFoo](https://jsfoo.in/2018/) | 13-14 Sep | Bengaluru | The eighth edition of India’s first JavaScript conference.|
-| [ODSC (One Data Science Conference) ](https://india.odsc.com/) | 30 Aug – 2 Sep | Hotel Lalit Ashok, Bengaluru  | Conference on AI and Data Science |
-| [DevConf.in 2018](https://devconf.info/in) | 4-5 Aug | Christ University - Bengaluru | Annual Developers' Conference organised by Red Hat for local FOSS community |
-| [Deccan RubyConf 2018](https://www.deccanrubyconf.org/) | 4 Aug | Sheraton Grand Hotel, Pune | Pune extension of RubyConf India organized by same folks organizing RubyConf India |
-| [DroidJam](https://www.droidjam.in) | 13-14 July | Sheraton Grand, Bangalore | Conference on Android |
-| [Selenium Conf 2018](https://2018.seleniumconf.in/) | 28-30 June | Hotel Lalit Ashok, Bangalore  | Conference on Selenium Web Browser Automation tool |
-| [World Satoshi Summit](https://www.worldsatoshisummit.com/) | 12-13 May | New Delhi | Bring all the students, entrepreneurs, blockchain enthusiasts, blockchain developers and influencers under one roof for a seamless exchange of ideas. |
-| [Rootconf 2018](https://rootconf.in/2018/) | 10-11 May | NIMHANS Convention Centre, Bangalore  | Conference on DevOps and IT Infrastructure |
-| [Great Indian Developer Summit](http://www.developermarch.com/developersummit/index.html) | 24-27 Apr | Bengaluru | 	With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem. |
-| [Distributed Systems Conference 2018](https://dsconf.in/) | 21 Apr | Sheraton Grand Hotel, Pune | DSConf is a conference on the best practices and the future of Distributed Systems. The conference aims at helping grow & highlighting all the work in the areas of Distributed Systems. |
-| [World Blockchain Technology Conclave](https://www.goeventz.com/event/the-world-blockchain-technology-conclave-2018/56893) | 22-23 Mar | Bangalore | Connect to global blockchain gurus and technology players in this space including emerging startups – with regional business and IT leaders. |
-| [Times AI Hub Artificial Intelligence Conclave](https://www.timesaihub.com/) | 16 Mar | IISc Bengaluru | Practical Implications of AI for enterprise organizations and Solutions transforming business productivity are discussed |
-| [GopherCon India](http://www.gophercon.in/) | 09-10 Mar | Sheraton Grand, Sangamvadi, Pune | Go conference in India. Go is an open source project developed by a team at Google. |
-| [Nullcon Conference 2018](https://nullcon.net/website/) | 27 Feb-03 Mar | Holiday Inn Resort, Goa | Nullcon is computer/network security related conference. |
-| [FOSSMeet '18](http://fossmeet.in/)| 17-18 Feb | NIT, Calicut |FOSSMeet is an annual event on Free and Open source software, conducted at NIT, Calicut. |
-| [GNUnify 2018](http://gnunify.in/) | 16-17 Feb | SICSR, Pune | Conference related to GNU/Linux and open source technologies. |
-| [RubyConf India](http://rubyconfindia.org/) | 09-10 Feb | The Chancery Pavilion Hotel, Bengaluru | RubyConf India is a global event complementing other RubyConf events across the world. |
-| [Data Governance Summit 2018](http://datagovernance.in/index.html) | 8 Feb | JW Marriott, Mumbai | The conference which give insights of the current challenges being faced regarding data quality and security. |
-| [Hosting and Domain Conference India](http://www.hdcon.org/) | 3 Feb | Hyderabad | Hosting and Domain Conference is the World's Top initiative to discuss on hosting, domain, blogging and web technologies. |
-| [ReactFoo Pune](https://reactfoo.in/) | 19-20 Jan | Pune | A conference on the lessons learned while implementing React and React Native. |
-| [IN/Clojure](http://inclojure.org/) | 12-13 Jan | Bengaluru | IN/Clojure is India's annual Clojure conference. It is also the only Clojure conference in all of Asia.
-
+| Conference | Date | Venue | Description | Scholarship |
+|------------|------|-------|-------------|-------------|
+| [Open Source India](https://www.opensourceindia.in/) |  17-18 Oct |  NIMHANS Convention Centre, Bengaluru  | A 2-day conference with several workshops, primarily focusing on the trending technologies in Open Source | No |
+| [PyCon India](https://in.pycon.org/2019/) |  12-15 Oct |  Chennai Trade Center and IIT Madras Research Park  | India's premier conference on using and developing the Python programming language | No |
+| [JSFoo Bangalore](https://hasgeek.com/jsfoo/2019/) | 27-28 Sep | NIMHANS Convention Centre, Bangalore | JSFoo is in its ninth edition this year. The 2019 edition is a two-track event with talks and Birds of Feather (BOF) sessions | No |
+| [React India](https://www.reactindia.io/) | 26-28 Sep | Goa | A 3 day conference with first day focussing on workshops & the next 2 days talks on things around React, React Native, GraphQL, VR & AR, Redux, Preact and more. | [Yes](https://www.notion.so/Scholarship-Program-React-India-2019-490794dd0a464db0a43b4c8c5440839f) |
+| [DevOps India Summit](https://devopsindiasummit.com/) | 31 Aug-1 Sep | Marriott Hotel, Whitefield, Bengaluru |  2-day conference focusing on thoughts around the collaboration of business success; the collaboration of DevOps and Cloud. | Yes |
+| [JSFoo: VueDay](https://hasgeek.com/jsfoo/2019-vueday/proposals) | 30 Aug | Bangalore International Centre | A day spent discussing Vue.js, developments in the Vue ecosystem and component architecture | Yes, for speakers |
+| [WordCamp Nagpur](https://2019.nagpur.wordcamp.org) | 11 Aug | MIA Centre for Sports & Recreation, Nagpur | Primarily a Wordpress Conference, covering everything related to WordPress and include things such as blogging, coding, branding, and security. | Yes, for speakers |
+| [DevConf.IN](https://devconf.info/in) | 2-3 Aug | Bengaluru, India | DevConf.IN 2019 is the second annual Developers' Conference to be organised by Red Hat in India. | No (Free for all) |
+| [SANOG](http://www.sanog.org/sanog34/) | 31 Jul - 7 Aug | Kolkata, India | The South Asian Network Operator Group. Engineers sharing operational knowledge on running ISPs and modern networks. | Yes (Apply on/before 28th May) |
+| [MEC.Conf](https://conf.mec.dev/) | 26-28 Jul | Kerala Technology Innovation Zone, Kochi | MEC.conf, the flagship conference organized by IEEE, IETE and FOSS-MEC of Govt Model engineering college,Kochi. It's a three day extravaganza featuring Workshops, Devsprints and numerous talks. | No |
+| [AWS Community Day, Bangalore](https://communityday.awsugblr.in/) | 26-27 Jul | Conrad, Bangalore | Flagship community event organized by AWS UserGroup that's spread over 2 days including workshops and the conference. | No |
+| [The Fifth Elephant](https://hasgeek.com/fifthelephant/2019/) | 25-26 Jul | NIMHANS Convention Centre, Bangalore | The eighth edition of India's best conference on data. | Yes, for speakers |
+| [Anthill Inside](https://hasgeek.com/anthillinside/2019) | 24 Jul | NIMHANS Convention Centre, Bangalore | On infrastructure for AI and ML: from managing training data to data storage, cloud strategy and costs of developing ML models | Yes, for speakers |
+| [INNOG](https://www.innog.net/) | 1-4 Jul |  India Habitat Center, New Delhi | The Indian Network Operator Group. Engineers sharing operational knowledge on running ISPs and modern networks. |
+| [Rootconf](https://hasgeek.com/rootconf/2019/) | 21-22 Jun | NIMHANS Convention Centre, Bangalore | India's largest community and conference on infrastructure security, DevOps and distributed systems | Yes, for speakers |
+| [GraphQL Asia](https://www.graphql-asia.org/) | 12-13 Apr | The Chancery Pavilion, Bangalore | GraphQL Asia celebrates one of the most exciting technologies to have emerged in recent times and the engineers and technologists who have contributed to its development, with a particular focus on the Asian GraphQL community. | No |
+| [Kubernetes Day India](https://events.linuxfoundation.org/events/kubernetes-day-india-2019/) | 23 Mar | Infosys Limited, Plot No 44/45, Bengaluru | Kubernetes Day is a single day, single track event that brings together local and international experts to engage developers interested in Kubernetes and related cloud native technologies. | No |
+| [ReactFoo](https://reactfoo.in/2019/) | 1-2 Mar | NIMHANS Convention Centre, Bengaluru | A conference on React, alternatives to React, React Native and front-end engineering. | No |
+| [NULLCON Goa](https://nullcon.net/website/) | 1-2 Mar | Holiday Inn Resort, Goa | A two day information exchange platform and CTF. | No |
+| [DSConf](https://dsconf.in/) | 16 Feb | Pune | Conference on Distributed Systems | No |
+| [PGConf India](https://pgconf.in/conferences/pgconfin2019) | 13-15 Feb | Bengaluru | Conference for Postgresql users and devs. | No |
+| [Processing Community Day](https://processingindia.org/bangalore.html) | 2 Feb| Bengaluru | Processing Community Day (PCD) is a day to celebrate and explore art, code, and diversity around the world, conducted by Processing community. | No |
+| [RubyConf India](https://www.rubyconfindia.org/) | 20-21 Jan | Hotel Park Regis, Goa | A global event complementing other RubyConf events across the world. This year it's a single track 2 day event, focused on the Language, Framework and Tools. | [Yes](https://www.rubyconfindia.org/scholarship/) |
+| [Pragma IIITA](http://pragmaconf.tech/) | 19 -20 Jan | Indian Insitute of Information Technology, Allahabad | Pragma is premier student design and developers’ conference held at IIIT-Allahabad. Attracting some of the best student developers from across India, Pragma is a 3 day extravaganza featuring a hackathon, workshops and numerous talks. | No
+| [GopherCon](https://gopherconindia.com/) | 18-19 Jan | Hotel Park Regis, Goa | Go conference in India. Go is an open source project developed by a team at Google and many contributors for the open source community. | [Yes]( https://gopherconindia.com/scholarship/) |
+| [JSFoo Pune](https://jsfoo.in/2019-pune/) | 10 Jan | MCCIA Trade Tower, Pune | The second Pune edition of India’s premier JavaScript conference. | No |
 
 ## Past Years
 
-- [2017](year-pages/2017-conferences-list.md)
-- [2016](year-pages/2016-conferences-list.md)
+- [2018](year-pages/2018.md)
+- [2017](year-pages/2017.md)
+- [2016](year-pages/2016.md)
 
 ## Contributing
 
-If you know of an upcoming tech conference, please contribute!
+If you know of an upcoming tech conference, please contribute! Please note that only community conferences which allow CFPs and have Code of Conduct are allowed in this list.
 
 To contribute to the list, please send a Pull Request. If you don't have time to send in a Pull Request, no worries, just open an issue and I'll look into it.
 
 **Format for contributions:**
 
-` | [name-of-conf](link) | date | venue | description |`
+` | [name-of-conf](link) | date | venue | description | scholarship provided (yes/no) |`
 
 Please make sure that the conferences are in reverse chronological order and you follow the Pull Request Template. :smile:
 
