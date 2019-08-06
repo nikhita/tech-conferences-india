@@ -8,7 +8,7 @@ To add a conference to the list, please [contribute](#contributing)!
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
-| [Functional Conf](https://functionalconf.com/) |  Nov 13—17, 2019 |  ITC WelcomHotel, Bengaluru  | Functional Conf is designed to bring together the growing community of functional programmers under one roof.s | No |
+| [Functional Conf](https://functionalconf.com/) |  13-17 Nov |  ITC WelcomHotel, Bengaluru  | Functional Conf is designed to bring together the growing community of functional programmers under one roof. | No |
 | [Open Source India](https://www.opensourceindia.in/) |  17-18 Oct |  NIMHANS Convention Centre, Bengaluru  | A 2-day conference with several workshops, primarily focusing on the trending technologies in Open Source | No |
 | [PyCon India](https://in.pycon.org/2019/) |  12-15 Oct |  Chennai Trade Center and IIT Madras Research Park  | India's premier conference on using and developing the Python programming language | No |
 | [JSFoo Bangalore](https://hasgeek.com/jsfoo/2019/) | 27-28 Sep | NIMHANS Convention Centre, Bangalore | JSFoo is in its ninth edition this year. The 2019 edition is a two-track event with talks and Birds of Feather (BOF) sessions | No |
