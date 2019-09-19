@@ -8,7 +8,7 @@ To add a conference to the list, please [contribute](#contributing)!
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
-| [SciPy India](https://scipy.in/2019) | 29—30 Nov | Lecture Hall Complex, IIT Bombay | Annual gathering of Pythonistas providing opportunities to spread the use of the Python programming language in the Scientific Computing community in India | Yes, for groups of 5 (or more) and for IIT Bombay student and staff |
+| [SciPy India](https://scipy.in/2019) | 29-30 Nov | Lecture Hall Complex, IIT Bombay | Annual gathering of Pythonistas providing opportunities to spread the use of the Python programming language in the Scientific Computing community in India | Yes, for groups of 5 (or more) and for IIT Bombay student and staff |
 | [Functional Conf](https://functionalconf.com/) | 13—17 Nov | ITC Welcomhotel Bengaluru, Bengaluru | Asia's Premier Functional Programming Conference | No |
 | [Open Source India](https://www.opensourceindia.in/) |  17-18 Oct |  NIMHANS Convention Centre, Bengaluru  | A 2-day conference with several workshops, primarily focusing on the trending technologies in Open Source | No |
 | [PyCon India](https://in.pycon.org/2019/) |  12-15 Oct |  Chennai Trade Center and IIT Madras Research Park  | India's premier conference on using and developing the Python programming language | No |
