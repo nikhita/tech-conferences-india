@@ -8,6 +8,7 @@ To add a conference to the list, please [contribute](#contributing)!
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
+| [WordCamp Kochi](https://2019.kochi.wordcamp.org/) | 1 DEC | SEMINAR COMPLEX CUSAT, KOCHI | Primarily a Wordpress Conference, covering everything related to WordPress and include things such as blogging, coding, branding, and security. | No |
 | [SciPy India](https://scipy.in/2019) | 29-30 Nov | Lecture Hall Complex, IIT Bombay | Annual gathering of Pythonistas providing opportunities to spread the use of the Python programming language in the Scientific Computing community in India | Yes, for groups of 5 (or more) and for IIT Bombay student and staff |
 | [WordCamp Udaipur](https://2019.udaipur.wordcamp.org/) | 23 Nov | The Artist House, Surajpole, Udaipur | Primarily a Wordpress Conference, covering everything related to WordPress and include things such as blogging, coding, branding, and security. | No |
 | [Functional Conf](https://functionalconf.com/) | 13-17 Nov | ITC Welcomhotel Bengaluru, Bengaluru | Asia's Premier Functional Programming Conference | No |
