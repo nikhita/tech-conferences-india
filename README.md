@@ -8,8 +8,10 @@ To add a conference to the list, please [contribute](#contributing)!
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
+| [WordCamp Kochi](https://2019.kochi.wordcamp.org/) | 1 Dec | Seminar Complex Cusat, Kochi | Primarily a Wordpress Conference, covering everything related to WordPress and include things such as blogging, coding, branding, and security. | No |
 | [SciPy India](https://scipy.in/2019) | 29-30 Nov | Lecture Hall Complex, IIT Bombay | Annual gathering of Pythonistas providing opportunities to spread the use of the Python programming language in the Scientific Computing community in India | Yes, for groups of 5 (or more) and for IIT Bombay student and staff |
 | [WordCamp Udaipur](https://2019.udaipur.wordcamp.org/) | 23 Nov | The Artist House, Surajpole, Udaipur | Primarily a Wordpress Conference, covering everything related to WordPress and include things such as blogging, coding, branding, and security. | No |
+| [ReactFoo Delhi](https://reactfoo.in/2019-delhi/) | 16 Nov | India International centre, Max Mueller Marg, New Delhi | A conference on React, alternatives to React, React Native and front-end engineering. | No |
 | [Functional Conf](https://functionalconf.com/) | 13-17 Nov | ITC Welcomhotel Bengaluru, Bengaluru | Asia's Premier Functional Programming Conference | No |
 | [WordCamp Mumbai](https://2019.mumbai.wordcamp.org/) | 8-10 Nov | Thakur College Of Engineering and Technology, Mumbai | Primarily a Wordpress Conference, covering everything related to WordPress and include things such as blogging, coding, branding, and security. | No |
 | [Open Source India](https://www.opensourceindia.in/) |  17-18 Oct |  NIMHANS Convention Centre, Bengaluru  | A 2-day conference with several workshops, primarily focusing on the trending technologies in Open Source | No |
