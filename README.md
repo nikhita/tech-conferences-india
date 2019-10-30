@@ -18,6 +18,7 @@ To add a conference to the list, please [contribute](#contributing)!
 | [ReactFoo Delhi](https://reactfoo.in/2019-delhi/) | 16 Nov | India International centre, Max Mueller Marg, New Delhi | A conference on React, alternatives to React, React Native and front-end engineering. | No |
 | [Functional Conf](https://functionalconf.com/) | 13-17 Nov | ITC Welcomhotel Bengaluru, Bengaluru | Asia's Premier Functional Programming Conference | No |
 | [WordCamp Mumbai](https://2019.mumbai.wordcamp.org/) | 8-10 Nov | Thakur College Of Engineering and Technology, Mumbai | Primarily a Wordpress Conference, covering everything related to WordPress and include things such as blogging, coding, branding, and security. | No |
+| [Droidcon India](https://www.in.droidcon.com/) | 2-3 Nov | Hotel Green Park, Chennai | The flagship Droidcon back in India after a two-year hiatus brought to you by droidcon HQ. | No |
 | [Open Source India](https://www.opensourceindia.in/) |  17-18 Oct |  NIMHANS Convention Centre, Bengaluru  | A 2-day conference with several workshops, primarily focusing on the trending technologies in Open Source | No |
 | [PyCon India](https://in.pycon.org/2019/) |  12-15 Oct |  Chennai Trade Center and IIT Madras Research Park  | India's premier conference on using and developing the Python programming language | No |
 | [JSFoo Bangalore](https://hasgeek.com/jsfoo/2019/) | 27-28 Sep | NIMHANS Convention Centre, Bangalore | JSFoo is in its ninth edition this year. The 2019 edition is a two-track event with talks and Birds of Feather (BOF) sessions | No |
