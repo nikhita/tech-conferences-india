@@ -4,11 +4,15 @@
 
 To add a conference to the list, please [contribute](#contributing)!
 
+## 2020
+
+Conferences happening in 2020 are being collected [here](/year-pages/2020.md).
+
 ## 2019
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
-| [PyConf Hyderabad 2019](https://pyconf.hydpy.org/2019/) | 7-8 Dec | IIIT Hyderabad | PyConf Hyderabad is the regional gathering for the community that uses and develops the open-source Python Programming Language. | No |
+| [PyConf Hyderabad](https://pyconf.hydpy.org/2019/) | 7-8 Dec | IIIT Hyderabad | PyConf Hyderabad is the regional gathering for the community that uses and develops the open-source Python Programming Language. | No |
 | [WordCamp Kochi](https://2019.kochi.wordcamp.org/) | 1 Dec | Seminar Complex Cusat, Kochi | Primarily a Wordpress Conference, covering everything related to WordPress and include things such as blogging, coding, branding, and security. | No |
 | [SciPy India](https://scipy.in/2019) | 29-30 Nov | Lecture Hall Complex, IIT Bombay | Annual gathering of Pythonistas providing opportunities to spread the use of the Python programming language in the Scientific Computing community in India | Yes, for groups of 5 (or more) and for IIT Bombay student and staff |
 | [Anthill Inside](https://hasgeek.com/anthillinside/2019/) | 23 Nov | Taj M G Road, Bangalore | On infrastructure for AI and ML: from managing training data to data storage, cloud strategy and costs of developing ML models | Yes, for speakers |
