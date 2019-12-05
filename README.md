@@ -8,14 +8,14 @@ To add a conference to the list, please [contribute](#contributing)!
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
-| [Great International Developer Summit](https://developersummit.com/india/) | 20-24 Apr | IISc, Bengaluru, Karnataka | Empowering Software practitioners | No |
-| [GraphQL Asia](https://www.graphql.asia/) | 20-22 Feb | Bengaluru, Karnataka | Largest gathering of the GraphQL community in Asia | [Yes](https://hasurahq.typeform.com/to/ukj62Q) |
-| [Kubernetes Forum Delhi](https://events19.linuxfoundation.org/events/kubernetes-forum-delhi-2019/) | 20-21 Feb | Delhi | Kubernetes Forums connect international and local experts in global cities with adopters, developers, and practitioners of Kubernetes. | No |
-| [Kubernetes Forum Bengaluru](https://events19.linuxfoundation.org/events/kubernetes-forum-bengaluru-2019/) | 17-18 Feb | Bengaluru, Karnataka | Kubernetes Forums connect international and local experts in global cities with adopters, developers, and practitioners of Kubernetes. | No |
+| [Great International Developer Summit](https://developersummit.com/india/) | 20-24 Apr | IISc, Bengaluru | Polyglot conference and expo series | No |
+| [GraphQL Asia](https://www.graphql.asia/) | 20-22 Feb | Bengaluru | Largest gathering of the GraphQL community in Asia | [Yes](https://hasurahq.typeform.com/to/ukj62Q) |
+| [Kubernetes Forum Delhi](https://events19.linuxfoundation.org/events/kubernetes-forum-delhi-2019/) | 20-21 Feb | Delhi | Kubernetes Forums connect international and local experts in global cities with adopters, developers, and practitioners of Kubernetes. | [Yes](https://events.linuxfoundation.org/kubernetes-forum-delhi/attend/diversity-scholarships/) |
+| [Kubernetes Forum Bengaluru](https://events19.linuxfoundation.org/events/kubernetes-forum-bengaluru-2019/) | 17-18 Feb | Bengaluru | Kubernetes Forums connect international and local experts in global cities with adopters, developers, and practitioners of Kubernetes. | [Yes](https://events.linuxfoundation.org/kubernetes-forum-bengaluru/attend/diversity-scholarships/) |
 | [Distributed Systems Conf](https://dsconf.in/) | 01 Feb | Hotel Novotel, Viman Nagar, Pune | India’s foremost conference on Distributed Systems | No |
 | [Machine Learning Developers Summit](https://www.mlds.analyticsindiasummit.com/) | 30-31 Jan | Indian School of Business, Hyderabad | India’s leading Machine Learning innovators and practitioners to share their ideas and experience about machine learning tools, advanced development & developer products | No |
 | [Machine Learning Developers Summit](https://www.mlds.analyticsindiasummit.com/) | 22-23 Jan | NIMHANS Convention Center, Bengaluru | India’s leading Machine Learning innovators and practitioners to share their ideas and experience about machine learning tools, advanced development & developer products | No |
-| [India OS](https://indiaos.in/) | 18 Jan | Zerodha, Bengaluru, Karnataka | See what's shaping the future of software, join a community connected by code and turn ideas into innovations. The goal is to provide software developers and policy makers, communities and enthusiasts a platform to meet and interact. | Free to attend |
+| [India OS](https://indiaos.in/) | 18 Jan | Zerodha, Bengaluru | See what's shaping the future of software, join a community connected by code and turn ideas into innovations. The goal is to provide software developers and policy makers, communities and enthusiasts a platform to meet and interact. | Free to attend |
 
 
 ## Past Years
