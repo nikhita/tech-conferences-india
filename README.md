@@ -9,6 +9,7 @@ To add a conference to the list, please [contribute](#contributing)!
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
 | [Great International Developer Summit](https://developersummit.com/india/) | 20-24 Apr | IISc, Bengaluru | Polyglot conference and expo series | No |
+| [Nullcon](https://nullcon.net/website/) | 6-7 March | Dona Paula, Goa & Taj Goa | Nullcon is an extensive platform for the exchange of information about zero-day vulnerabilities, latest attack vectors, and other cyber threats. | No |
 | [GraphQL Asia](https://www.graphql.asia/) | 20-22 Feb | Bengaluru | Largest gathering of the GraphQL community in Asia | [Yes](https://hasurahq.typeform.com/to/ukj62Q) |
 | [Kubernetes Forum Delhi](https://events19.linuxfoundation.org/events/kubernetes-forum-delhi-2019/) | 20-21 Feb | Delhi | Kubernetes Forums connect international and local experts in global cities with adopters, developers, and practitioners of Kubernetes. | [Yes](https://events.linuxfoundation.org/kubernetes-forum-delhi/attend/diversity-scholarships/) |
 | [Kubernetes Forum Bengaluru](https://events19.linuxfoundation.org/events/kubernetes-forum-bengaluru-2019/) | 17-18 Feb | Bengaluru | Kubernetes Forums connect international and local experts in global cities with adopters, developers, and practitioners of Kubernetes. | [Yes](https://events.linuxfoundation.org/kubernetes-forum-bengaluru/attend/diversity-scholarships/) |
