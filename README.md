@@ -8,6 +8,7 @@ To add a conference to the list, please [contribute](#contributing)!
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
+| [Git Commit Show](https://gitcommit.show/) | 27-28 Jun | Online, Worldwide | An online developer conference | No |
 | [Great International Developer Summit](https://developersummit.com/india/) | 20-24 Apr | IISc, Bengaluru | Polyglot conference and expo series | No |
 | [Nullcon](https://nullcon.net/website/) | 6-7 March | Dona Paula, Goa & Taj Goa | Nullcon is an extensive platform for the exchange of information about zero-day vulnerabilities, latest attack vectors, and other cyber threats. | No |
 | [GraphQL Asia](https://www.graphql.asia/) | 20-22 Feb | Bengaluru | Largest gathering of the GraphQL community in Asia | [Yes](https://hasurahq.typeform.com/to/ukj62Q) |
