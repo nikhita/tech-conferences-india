@@ -4,7 +4,7 @@
 
 **Details of the conference**:
 
-- Website:
+- Website: 
 - Date:
-- Venue:
-- Description:
+- Venue: 
+- Description: 
