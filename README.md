@@ -8,6 +8,7 @@ To add a conference to the list, please [contribute](#contributing)!
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
+| [PyCon India](https://in.pycon.org/2020/) | 2-5 Oct | Online, Woldwide | The annual conference on Python programming language from the Indian Python Community. | No |
 | [Git Commit Show](https://gitcommit.show/) | 27-28 Jun | Online, Worldwide | A 2-day long, online meetup where carefully curated senior developers and researchers share their knowledge and breakthrough projects.| No |
 |[Cloud Community Days](https://ccdays.konfhub.com/)| 17-19 Jun | Online | Ride the wave of latest and best in Containers, Serverless, AI & ML, and more.| No |
 | [Great International Developer Summit](https://developersummit.com/india/) | 20-24 Apr | IISc, Bengaluru | Polyglot conference and expo series | No |
