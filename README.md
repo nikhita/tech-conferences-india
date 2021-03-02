@@ -12,27 +12,9 @@ To add a conference to the list, please [contribute](#contributing)!
 | [GitHub Satellite India](https://githubsatellite.com/) | 26-27 March | Virtual, India | GitHub's 2 day, virtual community event in India | No |
 | [MozFest](https://www.mozillafestival.org) | 8 March | Virtual, Worldwide | Discussions around privacy, security, digital inclusion, and trustworthy AI | No |
 
-## 2020
-
-| Conference | Date | Venue | Description | Scholarship |
-|------------|------|-------|-------------|-------------|
-| [PyConf Hyderabad](https://pyconf.hydpy.org/2020/) | 5-6 Dec | Online, Worldwide | PyConf Hyderabad is the regional gathering for the community that uses and develops the open-source Python Programming Language. And this year, it is Virtual!| No |
-| [Git Commit Show](https://gitcommit.show/) | 27-28 Jun | Online, Worldwide | A 2-day long, online meetup where carefully curated senior developers and researchers share their knowledge and breakthrough projects.| No |
-|[Cloud Community Days](https://ccdays.konfhub.com/)| 17-19 Jun | Online | Ride the wave of latest and best in Containers, Serverless, AI & ML, and more.| No |
-| [Great International Developer Summit](https://developersummit.com/india/) | 20-24 Apr | IISc, Bengaluru | Polyglot conference and expo series | No |
-| [Nullcon](https://nullcon.net/website/) | 6-7 March | Dona Paula, Goa & Taj Goa | Nullcon is an extensive platform for the exchange of information about zero-day vulnerabilities, latest attack vectors, and other cyber threats. | No |
-| [GraphQL Asia](https://www.graphql.asia/) | 20-22 Feb | Bengaluru | Largest gathering of the GraphQL community in Asia | [Yes](https://hasurahq.typeform.com/to/ukj62Q) |
-| [Kubernetes Forum Delhi](https://events19.linuxfoundation.org/events/kubernetes-forum-delhi-2019/) | 20-21 Feb | Delhi | Kubernetes Forums connect international and local experts in global cities with adopters, developers, and practitioners of Kubernetes. | [Yes](https://events.linuxfoundation.org/kubernetes-forum-delhi/attend/diversity-scholarships/) |
-| [Kubernetes Forum Bengaluru](https://events19.linuxfoundation.org/events/kubernetes-forum-bengaluru-2019/) | 17-18 Feb | Bengaluru | Kubernetes Forums connect international and local experts in global cities with adopters, developers, and practitioners of Kubernetes. | [Yes](https://events.linuxfoundation.org/kubernetes-forum-bengaluru/attend/diversity-scholarships/) |
-| [Alexa Community Day Bengaluru](https://www.alexacommunity.in/) | 08 Feb | Bangalore International Centre (BIC), Bengaluru | Alexa Community day are community-led events organized by the community and for the community. Unveiling success stories, use cases & much more from local and international Alexa experts. | No |
-| [Distributed Systems Conf](https://dsconf.in/) | 01 Feb | Hotel Novotel, Viman Nagar, Pune | India’s foremost conference on Distributed Systems | No |
-| [Machine Learning Developers Summit](https://www.mlds.analyticsindiasummit.com/) | 30-31 Jan | Indian School of Business, Hyderabad | India’s leading Machine Learning innovators and practitioners to share their ideas and experience about machine learning tools, advanced development & developer products | No |
-| [Machine Learning Developers Summit](https://www.mlds.analyticsindiasummit.com/) | 22-23 Jan | NIMHANS Convention Center, Bengaluru | India’s leading Machine Learning innovators and practitioners to share their ideas and experience about machine learning tools, advanced development & developer products | No |
-| [India OS](https://indiaos.in/) | 18 Jan | Zerodha, Bengaluru | See what's shaping the future of software, join a community connected by code and turn ideas into innovations. The goal is to provide software developers and policy makers, communities and enthusiasts a platform to meet and interact. | No |
-
 
 ## Past Years
-
+- [2020](year-pages/2020.md)
 - [2019](year-pages/2019.md)
 - [2018](year-pages/2018.md)
 - [2017](year-pages/2017.md)
