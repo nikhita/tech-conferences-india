@@ -8,7 +8,7 @@ To add a conference to the list, please [contribute](#contributing)!
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
-| [JuliaCon 2021](https://juliacon.org/2021/tickets/) | 28-30 July| Virtual, Worldwide | JuliaCon is the annual conference for the Julia programming language, where scientists, programmers and data scientists come together.| No |
+| [JuliaCon](https://juliacon.org/2021/tickets/) | 28-30 July | Virtual, Worldwide | JuliaCon is the annual conference for the Julia programming language, where scientists, programmers and data scientists come together.| Free for all |
 | [GitHub Satellite India](https://githubsatellite.com/) | 26-27 March| Virtual, India | A community connected by code. Join us for a 2 day, virtual event exploring the future of software| No |
 | [MozFest 2021](https://www.mozillafestival.org/en/tickets/?utm_source=schedule&utm_medium=email&utm_campaign=MoFoListScheduleLIVE&utm_content=BIGscheduleannouncement&utm_term=5413619) | 8 March| Virtual, Worldwide | At MozFest, we write code, swap ideas, and build communities around issues like privacy, security, digital inclusion, and trustworthy AI.| No |
 
