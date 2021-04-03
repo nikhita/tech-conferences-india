@@ -11,7 +11,7 @@ To add a conference to the list, please [contribute](#contributing)!
 | [JuliaCon](https://juliacon.org/2021/tickets/) | 28-30 July | Virtual, Worldwide | JuliaCon is the annual conference for the Julia programming language, where scientists, programmers and data scientists come together.| Free for all |
 | [GitHub Satellite India](https://githubsatellite.com/) | 26-27 March | Virtual, India | GitHub's 2 day, virtual community event in India | No |
 | [MozFest](https://www.mozillafestival.org) | 8 March | Virtual, Worldwide | Discussions around privacy, security, digital inclusion, and trustworthy AI | No |
-
+| [PyCon India'21](https://in.pycon.org/2021/) | 17th Sept-20th sept | Virtual, Worldwide | PyCon India is the largest gathering of Pythonistas in India for the Python programming language. | No |
 
 ## Past Years
 - [2020](year-pages/2020.md)
