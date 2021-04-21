@@ -8,6 +8,7 @@ To add a conference to the list, please [contribute](#contributing)!
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
+| [NASSCOM Annual Technology Conference](https://nasscom.in/events/nasscom-annual-technology-conference) | 6 & 8 August | Virtual, India | This event brings some of the finest speakers, thought leaders, invigorating discussion topics and much more to celebrate technology in its purest form.| Free for all |
 | [JuliaCon](https://juliacon.org/2021/tickets/) | 28-30 July | Virtual, Worldwide | JuliaCon is the annual conference for the Julia programming language, where scientists, programmers and data scientists come together.| Free for all |
 | [GitHub Satellite India](https://githubsatellite.com/) | 26-27 March | Virtual, India | GitHub's 2 day, virtual community event in India | No |
 | [MozFest](https://www.mozillafestival.org) | 8 March | Virtual, Worldwide | Discussions around privacy, security, digital inclusion, and trustworthy AI | No |
