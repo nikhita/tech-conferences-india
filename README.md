@@ -4,16 +4,18 @@
 
 To add a conference to the list, please [contribute](#contributing)!
 
-## 2021
+## 2022
 
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
-| [JuliaCon](https://juliacon.org/2021/tickets/) | 28-30 July | Virtual, Worldwide | JuliaCon is the annual conference for the Julia programming language, where scientists, programmers and data scientists come together.| Free for all |
-| [GitHub Satellite India](https://githubsatellite.com/) | 26-27 March | Virtual, India | GitHub's 2 day, virtual community event in India | No |
-| [MozFest](https://www.mozillafestival.org) | 8 March | Virtual, Worldwide | Discussions around privacy, security, digital inclusion, and trustworthy AI | No |
+| [TS Congress](https://typescriptcongress.com/) | 29 April | Virtual | TS Congress is an online event for web developers on all things TypesScript. Learn from industry professionals and community members, exchange ideas, interact, and collaborate in the form of a modern tech event. | €46 |
+| [Developer Growth Summit 2022](https://www.codementor.io/events/developer-growth-summit) | 20-21 April | Virtual, Worldwide | Engage with the world's leading developers and tech mentors over two days to build the technical and career skills critical to your success. | No |
+| [LeadDev New York](https://leaddev.com/leaddev-new-york) | 7-8 April | Virtual, New York | LeadingEng - the dedicated event for CTO-track engineering leadership. | $50-$80 | 
+| [React Conference Live](https://reactlive.nl/live-stream) | 1 April | Virtual, Amsterdam | React Conference Live is the Must Attend Conference for React Developers. | €49-€252
 
 
 ## Past Years
+- [2021](year-pages/2021.md)
 - [2020](year-pages/2020.md)
 - [2019](year-pages/2019.md)
 - [2018](year-pages/2018.md)
