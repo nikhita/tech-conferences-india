@@ -34,14 +34,13 @@ To add a conference to the list, please [contribute](#contributing)!
 |[IBM Think](https://www.ibm.com/events/think/) in Boston | May 10-11 |Online and in-person| Free |
 |[Black Hat Asia](https://www.blackhat.com/upcoming.html) in Singapore| May 10-13 |Online and In-person | Free |
 |[Google I/O](https://io.google/2022/)| May 11-12 |Online| Free |
-|[Gartner Application Innovation & Business Solutions Summit](https://www.gartner.com/en/conferences/emea/applications-uk) in London| May 16-17 |[in-person] | Free |
 |[Tableau Conference](https://www.tableau.com/events/conference), Las Vegas | May 17-19 |[in person, online] | Free |
 |[IDC South Africa CIO Summit](https://www.idc.com/mea/events/69266-idc-south-africa-cio-summit-2022) | May 19|Online| Free |
 |[Gartner Marketing Symposium Xpo](https://www.gartner.com/en/conferences/na/marketing-symposium-us) in Aurora, Colorado| May 23-25 |Online and In-person | Free |
 |[Microsoft Build](https://mybuild.microsoft.com/home)| May 24-26 |Online| Free |
 |[O’Reilly Data Superstream: Analytics Engineering](https://www.oreilly.com/live-events/data-superstream-analytics-engineering/0636920064965/0636920064964/)| May 25|Online| Free |
 |[Apple Worldwide Developer Conference](https://developer.apple.com/wwdc22/)| June 6-10 |Online| Free |
-|[Women in Tech Global Conference](https://www.womentech.net/women-tech-conference) | June 7-9|[hybrid, in-person location TBA]| Free |
+|[Women in Tech Global Conference](https://www.womentech.net/women-tech-conference) | June 7-9| Online and In-person| Free |
 |[Ardoq Amplify 2022](https://content.ardoq.com/events/amplify-2022#section--agenda) in Oslo, Norway and New York City| June 7|Online and in-person| Free |
 |[O’Reilly Cloud Superstream: Cloud Security](https://www.oreilly.com/live-events/cloud-superstream-cloud-security/0636920068516/0636920068515/)| June 8|Online| Free |
 |[HMG Financial Services CIO Executive Leadership Summit](https://hmgstrategy.com/events/cio-summits/2022/06/09/default-calendar/2022-financial-services-cio-executive-leadership-summit) | June 9|Online| Free |
