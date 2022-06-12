@@ -6,6 +6,17 @@ To add a conference to the list, please [contribute](#contributing)!
 
 ## 2022
 
+### **Offline Events**
+
+| Conference | Date | Venue | Description | Scholarship |
+|--------------------|--------------|------------|-----------|-----------|
+| [Gartner IT Symposium and Xpo](https://www.gartner.com/en/conferences/apac/symposium-india)| 14-16 November | Kochi | A gathering of CIOs across regions and industries to gain new perspectives on the challenges and opportunities of business transformation|No|
+| [Gartner Data & Analytics Summit](https://www.gartner.com/en/conferences/apac/data-analytics-india) | 19-20 September | Mumbai | Addressing challenges faced by data analytics leaders as they build the innovative and adaptable organizations of the future |No|
+| [Global Artificial Intelligence Summit & Awards 2022](https://www.aicra.org/global_ai_summit/)| 25-26 August | New Delhi | A gathering of global industry leaders, data experts, and AI pioneers highlighting the roles of AI and its applicative properties in the world" |No|
+| [Global Digital Security Forum India](http://www.gdsf-india.com/) | 19-20 May | Mumbai | Bringing together top security thought leaders and CSOs from leading organizations for the exchange of insights and best practices |No|
+| [The Rising 2022](https://rising.analyticsindiasummit.com/) | 8 April| Bengaluru | A conference for women in AI in India, bringing together data science leaders from industry and academia"|No|
+| [3rd international conference on the internet of things (ICIoT)](https://www.iciot2022.com/) | 5-7 April | Chennai| An opportunity for industrial and academic communities to address new trends and challenges in IoT|No|
+
 ### **Online Events**
 
 | Conference | Date | Venue | Scholarship |
@@ -23,8 +34,9 @@ To add a conference to the list, please [contribute](#contributing)!
 |[O’Reilly Data Superstream: Analytics Engineering](https://www.oreilly.com/live-events/data-superstream-analytics-engineering/0636920064965/0636920064964/)| May 25|Online| No |
 |[Microsoft Build](https://mybuild.microsoft.com/home)| May 24-26 |Online| No |
 |[Gartner Marketing Symposium Xpo](https://www.gartner.com/en/conferences/na/marketing-symposium-us) in Aurora, Colorado| May 23-25 |Online and In-person | No |
+| [Gartner CIO Leadership Forum](https://www.gartner.com/en/conferences/apac/cio-australia) | May 23-24 | online ||No|
 |[IDC South Africa CIO Summit](https://www.idc.com/mea/events/69266-idc-south-africa-cio-summit-2022) | May 19|Online| No |
-|[Tableau Conference](https://www.tableau.com/events/conference), Las Vegas | May 17-19 |[in person, online] | No |
+|[Tableau Conference](https://www.tableau.com/events/conference), Las Vegas | May 17-19 |Online and In-person | No |
 |[Google I/O](https://io.google/2022/)| May 11-12 |Online| No |
 |[Black Hat Asia](https://www.blackhat.com/upcoming.html) in Singapore| May 10-13 |Online and In-person | No |
 |[IBM Think](https://www.ibm.com/events/think/) in Boston | May 10-11 |Online and in-person| No |
